@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-16 09:54" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-22 11:20" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Exo Store</title>
 	<link>https://demo.olivethemes.com/exo-commerce-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Fri, 16 Sep 2022 09:54:58 +0000</pubDate>
+	<pubDate>Thu, 22 Sep 2022 11:20:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.olivethemes.com/exo-commerce-pro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[siteadmin]]></wp:author_login><wp:author_email><![CDATA[olivethemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[siteadmin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[siteadmin]]></wp:author_login><wp:author_email><![CDATA[olivethemes@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Olive Themes]]></wp:author_display_name><wp:author_first_name><![CDATA[Olive]]></wp:author_first_name><wp:author_last_name><![CDATA[Themes]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>9</wp:term_id>
