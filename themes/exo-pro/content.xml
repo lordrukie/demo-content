@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-22 10:48" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-23 04:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>EXO Pro</title>
 	<link>https://demo.olivethemes.com/exo-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Thu, 22 Sep 2022 10:48:41 +0000</pubDate>
+	<pubDate>Fri, 23 Sep 2022 04:17:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -4962,9 +4962,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->
 
 <!-- wp:olive-blocks/service {"blockClientId":"7e6ce6af-2d5f-4181-9cff-813c3e4b0737","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"margin":{"desktop":{"bottom":"50px"}}},"columnSize":3,"align":"wide","oliveblocksStyles":".olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;margin-bottom: 50px; }"} -->
-<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"cfb7ca45-d1e0-48a1-b0a6-4081bceb806a","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-cfb7ca45-d1e0-48a1-b0a6-4081bceb806a { background: #fff; }.olive-blocks-section-cfb7ca45-d1e0-48a1-b0a6-4081bceb806a { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-cfb7ca45-d1e0-48a1-b0a6-4081bceb806a olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"cd9d01c9-20f4-49d6-b968-7c9d98bcbb88","source":"image","iconImage":{"id":259,"title":"icon-33-1","filename":"icon-33-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-33-1/","alt":"","author":"1","description":"","caption":"","name":"icon-33-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:11:10.000Z","modified":"2022-08-22T11:11:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"15922238fa","delete":"13c4dfa040","edit":"a2e51b80ac"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=259\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":788,"filesizeHumanReadable":"788 B","context":"","height":50,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png","height":50,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-cd9d01c9-20f4-49d6-b968-7c9d98bcbb88 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-cd9d01c9-20f4-49d6-b968-7c9d98bcbb88 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-cd9d01c9-20f4-49d6-b968-7c9d98bcbb88 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-cd9d01c9-20f4-49d6-b968-7c9d98bcbb88 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png" alt=""/></a></div>
+<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"f894f7ab-8ba7-4cd4-a99c-c566ebbf6de0","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-f894f7ab-8ba7-4cd4-a99c-c566ebbf6de0 { background: #fff; }.olive-blocks-section-f894f7ab-8ba7-4cd4-a99c-c566ebbf6de0 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-f894f7ab-8ba7-4cd4-a99c-c566ebbf6de0 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"f25bf034-bebd-403c-9a05-bc559e1e5bb7","source":"image","iconImage":{"id":259,"title":"icon-33-1","filename":"icon-33-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-33-1/","alt":"","author":"1","description":"","caption":"","name":"icon-33-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:11:10.000Z","modified":"2022-08-22T11:11:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"15922238fa","delete":"13c4dfa040","edit":"a2e51b80ac"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=259\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":788,"filesizeHumanReadable":"788 B","context":"","height":50,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png","height":50,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-f25bf034-bebd-403c-9a05-bc559e1e5bb7 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-f25bf034-bebd-403c-9a05-bc559e1e5bb7 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-f25bf034-bebd-403c-9a05-bc559e1e5bb7 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-f25bf034-bebd-403c-9a05-bc559e1e5bb7 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-33-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4986,9 +4986,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"ca48cea4-635f-4f50-8d2d-8c0f8ce6d180","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-ca48cea4-635f-4f50-8d2d-8c0f8ce6d180 { background: #fff; }.olive-blocks-section-ca48cea4-635f-4f50-8d2d-8c0f8ce6d180 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-ca48cea4-635f-4f50-8d2d-8c0f8ce6d180 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"345d0ac5-5bc3-4619-bb56-40440cde73d2","source":"image","iconImage":{"id":260,"title":"icon-66-1","filename":"icon-66-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-66-1/","alt":"","author":"1","description":"","caption":"","name":"icon-66-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:12:55.000Z","modified":"2022-08-22T11:12:55.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"dbdcdda9a9","delete":"c209dd6c35","edit":"84722a5fbd"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=260\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":674,"filesizeHumanReadable":"674 B","context":"","height":48,"width":39,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png","height":48,"width":39,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-345d0ac5-5bc3-4619-bb56-40440cde73d2 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-345d0ac5-5bc3-4619-bb56-40440cde73d2 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-345d0ac5-5bc3-4619-bb56-40440cde73d2 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-345d0ac5-5bc3-4619-bb56-40440cde73d2 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"5a4974d8-a3b1-42ae-9fde-b2e4ce5d58a6","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-5a4974d8-a3b1-42ae-9fde-b2e4ce5d58a6 { background: #fff; }.olive-blocks-section-5a4974d8-a3b1-42ae-9fde-b2e4ce5d58a6 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-5a4974d8-a3b1-42ae-9fde-b2e4ce5d58a6 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"f9d70132-111d-4a63-bd08-dd2b0b612d44","source":"image","iconImage":{"id":260,"title":"icon-66-1","filename":"icon-66-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-66-1/","alt":"","author":"1","description":"","caption":"","name":"icon-66-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:12:55.000Z","modified":"2022-08-22T11:12:55.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"dbdcdda9a9","delete":"c209dd6c35","edit":"84722a5fbd"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=260\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":674,"filesizeHumanReadable":"674 B","context":"","height":48,"width":39,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png","height":48,"width":39,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-f9d70132-111d-4a63-bd08-dd2b0b612d44 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-f9d70132-111d-4a63-bd08-dd2b0b612d44 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-f9d70132-111d-4a63-bd08-dd2b0b612d44 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-f9d70132-111d-4a63-bd08-dd2b0b612d44 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-66-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -5010,9 +5010,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"8c291f17-f093-4041-bfe1-081336c5bd41","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-8c291f17-f093-4041-bfe1-081336c5bd41 { background: #fff; }.olive-blocks-section-8c291f17-f093-4041-bfe1-081336c5bd41 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-8c291f17-f093-4041-bfe1-081336c5bd41 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"2821c6fe-225b-4d0c-9b5f-661d835727c9","source":"image","iconImage":{"id":261,"title":"icon-99-1","filename":"icon-99-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-99-1/","alt":"","author":"1","description":"","caption":"","name":"icon-99-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:01.000Z","modified":"2022-08-22T11:13:01.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"ec6ec370a9","delete":"e0f9bb5ef6","edit":"bef0247ba5"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=261\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":922,"filesizeHumanReadable":"922 B","context":"","height":46,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png","height":46,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-2821c6fe-225b-4d0c-9b5f-661d835727c9 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-2821c6fe-225b-4d0c-9b5f-661d835727c9 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-2821c6fe-225b-4d0c-9b5f-661d835727c9 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-2821c6fe-225b-4d0c-9b5f-661d835727c9 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"935ae8ef-2617-4c65-b093-fe1e7e3a2928","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-935ae8ef-2617-4c65-b093-fe1e7e3a2928 { background: #fff; }.olive-blocks-section-935ae8ef-2617-4c65-b093-fe1e7e3a2928 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-935ae8ef-2617-4c65-b093-fe1e7e3a2928 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"529921ec-c018-46c9-80a4-3530f6d17664","source":"image","iconImage":{"id":261,"title":"icon-99-1","filename":"icon-99-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-99-1/","alt":"","author":"1","description":"","caption":"","name":"icon-99-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:01.000Z","modified":"2022-08-22T11:13:01.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"ec6ec370a9","delete":"e0f9bb5ef6","edit":"bef0247ba5"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=261\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":922,"filesizeHumanReadable":"922 B","context":"","height":46,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png","height":46,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-529921ec-c018-46c9-80a4-3530f6d17664 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-529921ec-c018-46c9-80a4-3530f6d17664 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-529921ec-c018-46c9-80a4-3530f6d17664 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-529921ec-c018-46c9-80a4-3530f6d17664 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-99-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -5034,9 +5034,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"6b9ee3a6-6fff-4a19-9cb4-fc05983c3090","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-6b9ee3a6-6fff-4a19-9cb4-fc05983c3090 { background: #fff; }.olive-blocks-section-6b9ee3a6-6fff-4a19-9cb4-fc05983c3090 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-6b9ee3a6-6fff-4a19-9cb4-fc05983c3090 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"278076aa-f5b6-4a42-8679-da8d031f43cb","source":"image","iconImage":{"id":262,"title":"icon-111-1","filename":"icon-111-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-111-1/","alt":"","author":"1","description":"","caption":"","name":"icon-111-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:10.000Z","modified":"2022-08-22T11:13:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"14d41da7da","delete":"e82e85bf47","edit":"5bef61a6ed"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=262\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":786,"filesizeHumanReadable":"786 B","context":"","height":55,"width":42,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png","height":55,"width":42,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-278076aa-f5b6-4a42-8679-da8d031f43cb .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-278076aa-f5b6-4a42-8679-da8d031f43cb .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-278076aa-f5b6-4a42-8679-da8d031f43cb .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-278076aa-f5b6-4a42-8679-da8d031f43cb olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"e74d638f-c7ed-4373-aa3a-c18a557ee8e8","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-e74d638f-c7ed-4373-aa3a-c18a557ee8e8 { background: #fff; }.olive-blocks-section-e74d638f-c7ed-4373-aa3a-c18a557ee8e8 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-e74d638f-c7ed-4373-aa3a-c18a557ee8e8 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"f6f1969a-4846-44b1-b5c8-11b1b8fe6b9e","source":"image","iconImage":{"id":262,"title":"icon-111-1","filename":"icon-111-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-111-1/","alt":"","author":"1","description":"","caption":"","name":"icon-111-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:10.000Z","modified":"2022-08-22T11:13:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"14d41da7da","delete":"e82e85bf47","edit":"5bef61a6ed"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=262\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":786,"filesizeHumanReadable":"786 B","context":"","height":55,"width":42,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png","height":55,"width":42,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-f6f1969a-4846-44b1-b5c8-11b1b8fe6b9e .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-f6f1969a-4846-44b1-b5c8-11b1b8fe6b9e .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-f6f1969a-4846-44b1-b5c8-11b1b8fe6b9e .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-f6f1969a-4846-44b1-b5c8-11b1b8fe6b9e olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-111-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -5058,9 +5058,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"e3c18ab8-ec1a-429a-ab6e-e60a82fe87bc","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-e3c18ab8-ec1a-429a-ab6e-e60a82fe87bc { background: #fff; }.olive-blocks-section-e3c18ab8-ec1a-429a-ab6e-e60a82fe87bc { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-e3c18ab8-ec1a-429a-ab6e-e60a82fe87bc olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"f1fb1a04-457f-4785-8335-3f5b95bebd72","source":"image","iconImage":{"id":263,"title":"icon-44-1","filename":"icon-44-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-44-1/","alt":"","author":"1","description":"","caption":"","name":"icon-44-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:17.000Z","modified":"2022-08-22T11:13:17.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"35f0fda243","delete":"7b0e4d2aba","edit":"e1260a14dd"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=263\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":747,"filesizeHumanReadable":"747 B","context":"","height":54,"width":44,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png","height":54,"width":44,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-f1fb1a04-457f-4785-8335-3f5b95bebd72 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-f1fb1a04-457f-4785-8335-3f5b95bebd72 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-f1fb1a04-457f-4785-8335-3f5b95bebd72 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-f1fb1a04-457f-4785-8335-3f5b95bebd72 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"9c62989a-77a0-43de-8a3a-beb00ccc1907","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-9c62989a-77a0-43de-8a3a-beb00ccc1907 { background: #fff; }.olive-blocks-section-9c62989a-77a0-43de-8a3a-beb00ccc1907 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-9c62989a-77a0-43de-8a3a-beb00ccc1907 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"a716e64f-9680-48fe-83be-2cbe46d6701d","source":"image","iconImage":{"id":263,"title":"icon-44-1","filename":"icon-44-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-44-1/","alt":"","author":"1","description":"","caption":"","name":"icon-44-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:17.000Z","modified":"2022-08-22T11:13:17.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"35f0fda243","delete":"7b0e4d2aba","edit":"e1260a14dd"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=263\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":747,"filesizeHumanReadable":"747 B","context":"","height":54,"width":44,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png","height":54,"width":44,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-a716e64f-9680-48fe-83be-2cbe46d6701d .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-a716e64f-9680-48fe-83be-2cbe46d6701d .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-a716e64f-9680-48fe-83be-2cbe46d6701d .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-a716e64f-9680-48fe-83be-2cbe46d6701d olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-44-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -5082,9 +5082,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"b0a1b1a2-9516-4bed-bb41-6d136d4c4954","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-b0a1b1a2-9516-4bed-bb41-6d136d4c4954 { background: #fff; }.olive-blocks-section-b0a1b1a2-9516-4bed-bb41-6d136d4c4954 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-b0a1b1a2-9516-4bed-bb41-6d136d4c4954 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"033c49c2-660a-412c-a331-deab0fffedce","source":"image","iconImage":{"id":264,"title":"icon-77-1","filename":"icon-77-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-77-1/","alt":"","author":"1","description":"","caption":"","name":"icon-77-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:24.000Z","modified":"2022-08-22T11:13:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"8b4507c1f5","delete":"907a4a28b6","edit":"5b26dbcb53"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=264\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":710,"filesizeHumanReadable":"710 B","context":"","height":46,"width":36,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png","height":46,"width":36,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-033c49c2-660a-412c-a331-deab0fffedce .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-033c49c2-660a-412c-a331-deab0fffedce .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-033c49c2-660a-412c-a331-deab0fffedce .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-033c49c2-660a-412c-a331-deab0fffedce olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"d733835c-ecec-4318-85b8-51ef360b8c98","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-d733835c-ecec-4318-85b8-51ef360b8c98 { background: #fff; }.olive-blocks-section-d733835c-ecec-4318-85b8-51ef360b8c98 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-d733835c-ecec-4318-85b8-51ef360b8c98 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"6405cfcc-a6f6-4765-b070-d6e20c5b5cab","source":"image","iconImage":{"id":264,"title":"icon-77-1","filename":"icon-77-1.png","url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png","link":"https://demo.olivethemes.com/olive-blocks/icon-77-1/","alt":"","author":"1","description":"","caption":"","name":"icon-77-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:24.000Z","modified":"2022-08-22T11:13:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/olive-blocks/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"8b4507c1f5","delete":"907a4a28b6","edit":"5b26dbcb53"},"editLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/post.php?post=264\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/olive-blocks/wp-admin/profile.php","filesizeInBytes":710,"filesizeHumanReadable":"710 B","context":"","height":46,"width":36,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png","height":46,"width":36,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-6405cfcc-a6f6-4765-b070-d6e20c5b5cab .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-6405cfcc-a6f6-4765-b070-d6e20c5b5cab .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-6405cfcc-a6f6-4765-b070-d6e20c5b5cab .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-6405cfcc-a6f6-4765-b070-d6e20c5b5cab olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/icon-77-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -5628,8 +5628,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":490,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-2/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/business-man-large-2.jpeg" alt="" class="wp-image-490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"4e2e2b58-1263-4be3-982b-ba8f785d2052","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-4e2e2b58-1263-4be3-982b-ba8f785d2052 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-4e2e2b58-1263-4be3-982b-ba8f785d2052 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-4e2e2b58-1263-4be3-982b-ba8f785d2052 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-4e2e2b58-1263-4be3-982b-ba8f785d2052 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-4e2e2b58-1263-4be3-982b-ba8f785d2052 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"6187042e-ff73-44d1-b1fe-ad8fae099379","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-6187042e-ff73-44d1-b1fe-ad8fae099379 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-6187042e-ff73-44d1-b1fe-ad8fae099379 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-6187042e-ff73-44d1-b1fe-ad8fae099379 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-6187042e-ff73-44d1-b1fe-ad8fae099379 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-6187042e-ff73-44d1-b1fe-ad8fae099379 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5652,8 +5652,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":482,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-5/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/business-man-large-5.jpeg" alt="" class="wp-image-482 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"22b32cb2-90db-4413-b7fc-76dae2b4cfdf","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-22b32cb2-90db-4413-b7fc-76dae2b4cfdf .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-22b32cb2-90db-4413-b7fc-76dae2b4cfdf .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-22b32cb2-90db-4413-b7fc-76dae2b4cfdf .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-22b32cb2-90db-4413-b7fc-76dae2b4cfdf .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-22b32cb2-90db-4413-b7fc-76dae2b4cfdf olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"00421428-8e94-4df8-860e-9de5e9f83459","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-00421428-8e94-4df8-860e-9de5e9f83459 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-00421428-8e94-4df8-860e-9de5e9f83459 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-00421428-8e94-4df8-860e-9de5e9f83459 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-00421428-8e94-4df8-860e-9de5e9f83459 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-00421428-8e94-4df8-860e-9de5e9f83459 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5707,8 +5707,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/team {"blockClientId":"894af108-ea17-4caa-9175-6542d4ac5472","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}}},"columnSize":4,"oliveblocksStyles":".olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
-<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"8e513eef-a18a-47e7-b2b9-21acba48a2a9","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-8e513eef-a18a-47e7-b2b9-21acba48a2a9 { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-8e513eef-a18a-47e7-b2b9-21acba48a2a9 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":736,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"b0bd18af-08b1-4cb0-aee3-dcf354f98167","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-b0bd18af-08b1-4cb0-aee3-dcf354f98167 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-b0bd18af-08b1-4cb0-aee3-dcf354f98167 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":736,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/team-sq-1.jpeg" alt="" class="wp-image-736"/></figure>
 <!-- /wp:image -->
 
@@ -5735,8 +5735,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"6730defe-9456-44e3-b656-02097ae6829b","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-6730defe-9456-44e3-b656-02097ae6829b { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-6730defe-9456-44e3-b656-02097ae6829b olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":737,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"111cdae3-134d-4b1d-898f-63b69d0fefc7","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-111cdae3-134d-4b1d-898f-63b69d0fefc7 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-111cdae3-134d-4b1d-898f-63b69d0fefc7 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":737,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/team-sq-2.jpeg" alt="" class="wp-image-737"/></figure>
 <!-- /wp:image -->
 
@@ -5763,8 +5763,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"dedeae04-4ee0-48d6-95c0-bb17e1d9f18e","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-dedeae04-4ee0-48d6-95c0-bb17e1d9f18e { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-dedeae04-4ee0-48d6-95c0-bb17e1d9f18e olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":739,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"f40be994-e52b-480f-9c10-794fed183035","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-f40be994-e52b-480f-9c10-794fed183035 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-f40be994-e52b-480f-9c10-794fed183035 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":739,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/team-sq-3.jpeg" alt="" class="wp-image-739"/></figure>
 <!-- /wp:image -->
 
@@ -5791,8 +5791,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"d44425f0-f2e9-4ba4-bbcc-8a167ff14f65","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-d44425f0-f2e9-4ba4-bbcc-8a167ff14f65 { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-d44425f0-f2e9-4ba4-bbcc-8a167ff14f65 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":738,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"fea76930-70ec-4b27-80d9-26fdcdbb44d3","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-fea76930-70ec-4b27-80d9-26fdcdbb44d3 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-fea76930-70ec-4b27-80d9-26fdcdbb44d3 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":738,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/4/2022/08/team-sq-4.jpeg" alt="" class="wp-image-738"/></figure>
 <!-- /wp:image -->
 
@@ -5988,8 +5988,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-24 04:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-24 04:42:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-18 12:10:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-18 12:10:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 04:16:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 04:16:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -13101,6 +13101,178 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="exo-pro"><![CDATA[exo-pro]]></category>
 		<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.olivethemes.com/exo-pro/2022/09/23/footer/</link>
+		<pubDate>Fri, 23 Sep 2022 04:17:05 +0000</pubDate>
+		<dc:creator><![CDATA[siteadmin]]></dc:creator>
+		<guid isPermaLink="false">https://demo.olivethemes.com/exo-pro/2022/09/23/footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4rem","bottom":"2rem","left":"30px","right":"30px"},"blockGap":"0px"},"elements":{"link":{"color":{"text":"#929ba8"}}},"color":{"background":"#0e0d0d","text":"#929ba8"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group alignfull has-text-color has-background has-link-color" style="background-color:#0e0d0d;color:#929ba8;padding-top:4rem;padding-right:30px;padding-bottom:2rem;padding-left:30px"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"bottom":"3rem"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-bottom:3rem"><!-- wp:column {"width":"22%","style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"0px"},"blockGap":"10px"}}} -->
+<div class="wp-block-column" style="padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:0px;flex-basis:22%"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">About Us</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:10px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"20px"}}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">It is a long established fact that a reader will be distracted by the readable…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:social-links {"iconColor":"background","iconColorValue":"#fff","openInNewTab":true,"size":"has-small-icon-size","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"left"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<ul class="wp-block-social-links has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
+
+<!-- wp:social-link {"url":"#","service":"twitter"} /-->
+
+<!-- wp:social-link {"url":"#","service":"linkedin"} /-->
+
+<!-- wp:social-link {"url":"#","service":"instagram"} /--></ul>
+<!-- /wp:social-links --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"blockGap":"10px","padding":{"top":"20px"}}}} -->
+<div class="wp-block-column" style="padding-top:20px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.5rem","fontStyle":"normal","fontWeight":"500"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Useful Links</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:10px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul><li><a href="#">Web Design </a></li><li><a href="#">Development</a></li><li><a href="#">Copywriting</a></li><li><a href="#">Marketing</a></li><li><a href="#">Press Releases</a></li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
+<div class="wp-block-column" style="padding-top:20px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Terms &amp; Condition</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:10px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.9","fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"small"} -->
+<ul class="has-third-color has-text-color has-small-font-size" style="font-style:normal;font-weight:300;line-height:1.9"><li>Privacy Policy</li><li>Terms and Conditions</li><li>Disclaimer</li><li>Support</li><li>FAQ</li></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
+<div class="wp-block-column" style="padding-top:20px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500","fontSize":"1.5rem"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Contact Us</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:10px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>example@mail.com</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>+1 234 567 890</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>457 Morningview Lane, NY</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"","style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
+<div class="wp-block-column" style="padding-top:20px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"1.5rem","fontStyle":"normal","fontWeight":"500"}},"textColor":"white"} -->
+<h3 class="has-white-color has-text-color" style="font-size:1.5rem;font-style:normal;font-weight:500">Our Office Time</h3>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"style":{"spacing":{"padding":{"bottom":"10px"}}}} -->
+<div class="wp-block-columns" style="padding-bottom:10px"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
+<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-wide"/>
+<!-- /wp:separator --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p>Mon - Fri : 08.00 - 20.00</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Saturday : 09.00 - 18.00</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sunday : We are Closed</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"25px","right":"30px","bottom":"25px","left":"30px"}},"elements":{"link":{"color":{"text":"var:preset|color|background"}}}},"backgroundColor":"black","textColor":"background","layout":{"inherit":true}} -->
+<div class="wp-block-group alignfull has-background-color has-black-background-color has-text-color has-background has-link-color" style="padding-top:25px;padding-right:30px;padding-bottom:25px;padding-left:30px"><!-- wp:group {"align":"wide","layout":{"type":"flex","allowOrientation":false,"justifyContent":"center"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
+<p class="has-text-align-center has-white-color has-text-color has-link-color"> Proudly powered by <a href="https://olivethemes.com/" target="_blank" rel="noreferrer noopener">Exo Pro </a>and <a rel="nofollow noopener" href="https://wordpress.org" target="_blank"> WordPress</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>886</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-23 04:17:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-23 04:17:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 04:17:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 04:17:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="exo-pro"><![CDATA[exo-pro]]></category>
+		<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
