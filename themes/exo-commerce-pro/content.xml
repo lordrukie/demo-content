@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-23 04:08" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-23 04:26" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Exo Store</title>
 	<link>https://demo.olivethemes.com/exo-commerce-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Fri, 23 Sep 2022 04:08:20 +0000</pubDate>
+	<pubDate>Fri, 23 Sep 2022 04:26:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -15377,8 +15377,8 @@ Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculu
 		<wp:post_id>1163</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-08 06:45:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-08 06:45:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-23 04:07:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-23 04:07:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 04:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 04:26:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-navigation]]></wp:post_name>
@@ -18963,7 +18963,9 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":1163,"layout":{"type":"flex","orientation":"vertical"},"style":{"spacing":{"blockGap":"10px"}}} /--></div>
+<!-- wp:list -->
+<ul><li><a href="#">Shipping &amp; Returns</a></li><li><a href="#">Product Recalls</a></li><li><a href="#">FAQ</a></li><li>Contact Us</li></ul>
+<!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
@@ -18973,7 +18975,9 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":1163,"layout":{"type":"flex","orientation":"vertical"},"style":{"spacing":{"blockGap":"10px"}}} /--></div>
+<!-- wp:list {"style":{"typography":{"lineHeight":"1.9","fontStyle":"normal","fontWeight":"300"}},"textColor":"third","fontSize":"small"} -->
+<ul class="has-third-color has-text-color has-small-font-size" style="font-style:normal;font-weight:300;line-height:1.9"><li><a href="#">Shipping &amp; Returns</a></li><li><a href="#">Product Recalls</a></li><li><a href="#">Disclaimer</a></li><li><a href="#">FAQ</a></li></ul>
+<!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"20px"},"blockGap":"10px"}}} -->
@@ -19037,8 +19041,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>1089</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-07 16:28:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-07 16:28:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-23 04:07:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-23 04:07:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-23 04:26:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-23 04:26:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
