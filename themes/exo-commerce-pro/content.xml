@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-26 12:19" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-26 13:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Exo Store</title>
 	<link>https://demo.olivethemes.com/exo-commerce-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Mon, 26 Sep 2022 12:19:51 +0000</pubDate>
+	<pubDate>Mon, 26 Sep 2022 13:11:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -5018,8 +5018,8 @@
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":490,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-2/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/11/2022/08/business-man-large-2.jpeg" alt="" class="wp-image-490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"f972cf8d-eda7-4559-8eb2-159771485aaa","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-f972cf8d-eda7-4559-8eb2-159771485aaa .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-f972cf8d-eda7-4559-8eb2-159771485aaa .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-f972cf8d-eda7-4559-8eb2-159771485aaa .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-f972cf8d-eda7-4559-8eb2-159771485aaa .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-f972cf8d-eda7-4559-8eb2-159771485aaa olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"6b1fc933-a26c-46af-8138-dd07b3152fbb","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-6b1fc933-a26c-46af-8138-dd07b3152fbb .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-6b1fc933-a26c-46af-8138-dd07b3152fbb .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-6b1fc933-a26c-46af-8138-dd07b3152fbb .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-6b1fc933-a26c-46af-8138-dd07b3152fbb .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-6b1fc933-a26c-46af-8138-dd07b3152fbb olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5042,8 +5042,8 @@
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":482,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-5/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/11/2022/08/business-man-large-5.jpeg" alt="" class="wp-image-482 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"af2c57ba-1f69-42a4-82e3-5680ff95d5a5","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-af2c57ba-1f69-42a4-82e3-5680ff95d5a5 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-af2c57ba-1f69-42a4-82e3-5680ff95d5a5 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-af2c57ba-1f69-42a4-82e3-5680ff95d5a5 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-af2c57ba-1f69-42a4-82e3-5680ff95d5a5 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-af2c57ba-1f69-42a4-82e3-5680ff95d5a5 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"2dec6671-b150-4a8e-810a-b093755d8dad","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-2dec6671-b150-4a8e-810a-b093755d8dad .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-2dec6671-b150-4a8e-810a-b093755d8dad .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-2dec6671-b150-4a8e-810a-b093755d8dad .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-2dec6671-b150-4a8e-810a-b093755d8dad .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-2dec6671-b150-4a8e-810a-b093755d8dad olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5140,8 +5140,8 @@
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-24 04:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-24 04:42:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-26 12:19:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-26 12:19:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-26 13:10:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-26 13:10:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -12142,7 +12142,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 <!-- wp:site-title {"style":{"typography":{"fontSize":"1.7rem","fontStyle":"normal","fontWeight":"700"}}} /--></div>
 <!-- /wp:group -->
 
-<!-- wp:navigation {"ref":1187,"textColor":"black","overlayBackgroundColor":"white","overlayTextColor":"text-link","align":"wide","className":"has-left-submenu wp-block-navigation-animation","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap","orientation":"horizontal"},"style":{"typography":{"textTransform":"capitalize"},"spacing":{"blockGap":"10px"}},"fontSize":"small"} /-->
+<!-- wp:navigation {"textColor":"black","overlayBackgroundColor":"white","overlayTextColor":"text-link","align":"wide","className":"has-left-submenu wp-block-navigation-animation","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"left","flexWrap":"wrap","orientation":"horizontal"},"style":{"typography":{"textTransform":"capitalize"},"spacing":{"blockGap":"10px"}},"fontSize":"small"} /-->
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group alignwide"><!-- wp:woocommerce/mini-cart {"textColor":"primary","fontSize":"small"} /-->
@@ -12159,8 +12159,8 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<wp:post_id>902</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-07 10:13:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-07 10:13:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-26 12:19:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-26 12:19:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-26 13:10:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-26 13:10:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
