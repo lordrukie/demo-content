@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-26 12:07" -->
+	<!-- generator="WordPress/6.0.2" created="2022-09-26 12:12" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Exo Store</title>
 	<link>https://demo.olivethemes.com/exo-commerce-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Mon, 26 Sep 2022 12:07:24 +0000</pubDate>
+	<pubDate>Mon, 26 Sep 2022 12:12:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -4914,7 +4914,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"wide"} -->
-<div class="wp-block-group alignwide"><!-- wp:olive-blocks/wc-product-list {"blockClientId":"d11b9b6a-8311-403c-8cfb-52d6eaa0cc49","columns":4,"query":{"numberOfItems":4,"tax":{"product_cat":[37]}}} /--></div>
+<div class="wp-block-group alignwide"><!-- wp:olive-blocks/wc-product-list {"blockClientId":"d11b9b6a-8311-403c-8cfb-52d6eaa0cc49","columns":4,"query":{"numberOfItems":4,"tax":{"product_cat":[]}}} /--></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
@@ -5018,8 +5018,8 @@
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":490,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-2/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/11/2022/08/business-man-large-2.jpeg" alt="" class="wp-image-490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"8aa4df37-41c2-4b47-8fea-451c903d7d9f","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-8aa4df37-41c2-4b47-8fea-451c903d7d9f .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-8aa4df37-41c2-4b47-8fea-451c903d7d9f .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-8aa4df37-41c2-4b47-8fea-451c903d7d9f .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-8aa4df37-41c2-4b47-8fea-451c903d7d9f .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-8aa4df37-41c2-4b47-8fea-451c903d7d9f olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"5e6657a9-73be-4bc6-aa3c-35e8482084c4","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-5e6657a9-73be-4bc6-aa3c-35e8482084c4 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-5e6657a9-73be-4bc6-aa3c-35e8482084c4 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-5e6657a9-73be-4bc6-aa3c-35e8482084c4 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-5e6657a9-73be-4bc6-aa3c-35e8482084c4 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-5e6657a9-73be-4bc6-aa3c-35e8482084c4 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5042,8 +5042,8 @@
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":482,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-5/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/11/2022/08/business-man-large-5.jpeg" alt="" class="wp-image-482 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"81237292-c530-4909-a21f-75f0b8849e67","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-81237292-c530-4909-a21f-75f0b8849e67 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-81237292-c530-4909-a21f-75f0b8849e67 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-81237292-c530-4909-a21f-75f0b8849e67 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-81237292-c530-4909-a21f-75f0b8849e67 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-81237292-c530-4909-a21f-75f0b8849e67 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"4b01a24e-124a-4302-82b6-86fe93b23af1","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-4b01a24e-124a-4302-82b6-86fe93b23af1 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-4b01a24e-124a-4302-82b6-86fe93b23af1 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-4b01a24e-124a-4302-82b6-86fe93b23af1 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-4b01a24e-124a-4302-82b6-86fe93b23af1 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-4b01a24e-124a-4302-82b6-86fe93b23af1 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -5140,8 +5140,8 @@
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-24 04:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-24 04:42:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-23 04:54:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-23 04:54:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-09-26 12:11:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-26 12:11:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
