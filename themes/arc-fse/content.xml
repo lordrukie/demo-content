@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.1" created="2022-11-11 04:17" -->
+	<!-- generator="WordPress/6.1" created="2022-11-11 14:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Arc</title>
 	<link>https://demo.olivethemes.com/arc-fse</link>
 	<description>Just another Olive Themes Demo Sites site</description>
-	<pubDate>Fri, 11 Nov 2022 04:17:33 +0000</pubDate>
+	<pubDate>Fri, 11 Nov 2022 14:16:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -2864,21 +2864,21 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:18:"a
 		<dc:creator><![CDATA[siteadmin]]></dc:creator>
 		<guid isPermaLink="false">https://demo.olivethemes.com/arc-fse/2022/10/14/primary-menu-3/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"custom","url":"https://demo.olivethemes.com/arc/","kind":"custom"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"custom","url":"https://demo.olivethemes.com/arc/","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":41,"url":"https://demo.olivethemes.com/arc-fse/about-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":41,"url":"/about-us/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":42,"url":"https://demo.olivethemes.com/arc-fse/contact-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":42,"url":"/contact-us/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Services","type":"page","id":43,"url":"https://demo.olivethemes.com/arc-fse/services/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Services","type":"page","id":43,"url":"/services/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Blog","type":"page","id":48,"url":"https://demo.olivethemes.com/arc-fse/blog/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Blog","type":"page","id":48,"url":"/blog/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2022-10-14 04:16:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-10-14 04:16:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-10-14 04:16:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-10-14 04:16:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-11 13:34:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-11 13:34:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu-3]]></wp:post_name>

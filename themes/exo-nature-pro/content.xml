@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-22 11:09" -->
+	<!-- generator="WordPress/6.1" created="2022-11-11 14:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Exo Nature Pro</title>
 	<link>https://demo.olivethemes.com/exo-nature-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Thu, 22 Sep 2022 11:09:26 +0000</pubDate>
+	<pubDate>Fri, 11 Nov 2022 14:18:23 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -102,7 +102,7 @@
 				<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 
 		<item>
 		<title><![CDATA[icon-phone]]></title>
@@ -2506,17 +2506,17 @@
 <div class="wp-block-group alignfull" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:olive-blocks/advance-slider {"blockClientId":"10ea7678-a829-4d96-86e2-06356b42b2f7","blockAdvanceOptions":{"hasPagination":true,"hasNavigation":true,"columns":1,"spaceBetween":0,"arrows":{"type":"style-1","backgroundColor":"#fff","normalColor":"#000","borderRadius":"100px","hoverColor":"#fff","hoverBackgroundColor":"#6ac610"},"paginations":{"width":"15px","height":"15px","borderWidth":"3px","borderRadius":"55px","backgroundColor":"#6ac610","normalColor":"#6ac610","borderColor":"#f9faff"},"layout":"layout-2","autoplay":false},"oliveblocksStyles":".olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-next  { color: #000;background-color: #fff; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-prev  { color: #000;background-color: #fff; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-pagination .swiper-pagination-bullet  { background-color: #6ac610;border-color: #f9faff;border-radius: 55px;border-width: 3px;border-style: solid;height: 15px;width: 15px; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-next  { color: #000;background-color: #fff;border-radius: 100px; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-prev  { color: #000;background-color: #fff;border-radius: 100px; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-next:hover  { color: #fff;background-color: #6ac610; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-button-prev:hover  { color: #fff;background-color: #6ac610; }.olive-blocks-section-10ea7678-a829-4d96-86e2-06356b42b2f7 .swiper-pagination .swiper-pagination-bullet  { color: #6ac610;background-color: #6ac610;border-color: #f9faff;border-radius: 55px;border-width: 3pxpx;border-style: solid;height: 15px;width: 15px; }"} -->
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"93ae709f-dfb7-4689-9ead-c5fc8c8a1611"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-93ae709f-dfb7-4689-9ead-c5fc8c8a1611 olive-blocks-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/banner-3.jpeg","id":889,"dimRatio":50,"overlayColor":"foreground","focalPoint":{"x":"0.85","y":"0.78"},"align":"full","style":{"spacing":{"padding":{"top":"14vw","right":"30px","bottom":"14vw","left":"30px"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-889" alt="" src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/banner-3.jpeg" style="object-position:85% 78%" data-object-fit="cover" data-object-position="85% 78%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim"></span><img class="wp-block-cover__image-background wp-image-889" alt="" src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/banner-3.jpeg" style="object-position:85% 78%" data-object-fit="cover" data-object-position="85% 78%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","left":"5%"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-left:5%"><!-- wp:heading {"textAlign":"left","level":3,"style":{"typography":{"lineHeight":"1.5","letterSpacing":"3px"}},"textColor":"background","className":"animated animated-fadeInUp"} -->
-<h3 class="has-text-align-left animated animated-fadeInUp has-background-color has-text-color" style="line-height:1.5;letter-spacing:3px">Green Tree planation</h3>
+<h3 class="has-text-align-left animated animated-fadeInUp has-background-color has-text-color" style="letter-spacing:3px;line-height:1.5">Green Tree planation</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"textColor":"white","className":"animated animated-fadeInUp","fontSize":"extra-huge"} -->
 <h2 class="has-text-align-left animated animated-fadeInUp has-white-color has-text-color has-extra-huge-font-size" style="font-style:normal;font-weight:700;line-height:1.5">WE’RE GREEN SOUL</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}}} -->
 <div class="wp-block-columns alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"textColor":"white"} -->
@@ -2550,10 +2550,10 @@
 
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"93ae709f-dfb7-4689-9ead-c5fc8c8a1611"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-93ae709f-dfb7-4689-9ead-c5fc8c8a1611 olive-blocks-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg","id":891,"dimRatio":40,"overlayColor":"foreground","focalPoint":{"x":"0.56","y":"0.91"},"isDark":false,"align":"full","style":{"spacing":{"padding":{"top":"14vw","right":"30px","bottom":"14vw","left":"30px"}}}} -->
-<div class="wp-block-cover alignfull is-light" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-891" alt="" src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg" style="object-position:56% 91%" data-object-fit="cover" data-object-position="56% 91%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull is-light" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-foreground-background-color has-background-dim-40 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-891" alt="" src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg" style="object-position:56% 91%" data-object-fit="cover" data-object-position="56% 91%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","left":"0%","bottom":"0px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0%"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"lineHeight":"1.5","letterSpacing":"3px"}},"textColor":"background","className":"animated animated-fadeInUp","fontSize":"extra-large"} -->
-<h3 class="has-text-align-center animated animated-fadeInUp has-background-color has-text-color has-extra-large-font-size" style="line-height:1.5;letter-spacing:3px">We Are Innovative</h3>
+<h3 class="has-text-align-center animated animated-fadeInUp has-background-color has-text-color has-extra-large-font-size" style="letter-spacing:3px;line-height:1.5">We Are Innovative</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"textColor":"white","className":"animated animated-fadeInUp","fontSize":"extra-huge"} -->
@@ -2583,10 +2583,10 @@
 <!-- /wp:olive-blocks/advance-slide-item -->
 <!-- /wp:olive-blocks/advance-slider -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -2596,7 +2596,7 @@
 <p class="has-secondary-color has-text-color">Reasons to Choose Us</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -2609,7 +2609,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px","type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
 <!-- /wp:paragraph -->
@@ -2621,9 +2621,9 @@
 <!-- /wp:group -->
 
 <!-- wp:olive-blocks/service {"blockClientId":"7e6ce6af-2d5f-4181-9cff-813c3e4b0737","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"margin":{"desktop":{"bottom":"50px"}}},"columnSize":3,"align":"wide","oliveblocksStyles":".olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;margin-bottom: 50px; }"} -->
-<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"32186d49-ae2c-40f2-8cc6-0757ae9e0c79","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-32186d49-ae2c-40f2-8cc6-0757ae9e0c79 { background: #fff; }.olive-blocks-section-32186d49-ae2c-40f2-8cc6-0757ae9e0c79 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-32186d49-ae2c-40f2-8cc6-0757ae9e0c79 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"fd1cac8f-b29a-42d8-b4c5-cd85e6b7d65d","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714450000,"filename":"services-icon-1.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":878,"title":"services-icon-1","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-1/","alt":"","author":"1","description":"","caption":"","name":"services-icon-1","status":"inherit","modified":1662714450000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"6ecaeed1b2","delete":"1bf3504dd3","edit":"c7dd0fa454"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=878\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2221,"filesizeHumanReadable":"2 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-fd1cac8f-b29a-42d8-b4c5-cd85e6b7d65d .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-fd1cac8f-b29a-42d8-b4c5-cd85e6b7d65d .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-fd1cac8f-b29a-42d8-b4c5-cd85e6b7d65d .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-fd1cac8f-b29a-42d8-b4c5-cd85e6b7d65d olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png" alt=""/></a></div>
+<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"c093ef1f-fe8a-48bb-93da-64c8f8bfca33","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-c093ef1f-fe8a-48bb-93da-64c8f8bfca33 { background: #fff; }.olive-blocks-section-c093ef1f-fe8a-48bb-93da-64c8f8bfca33 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-c093ef1f-fe8a-48bb-93da-64c8f8bfca33 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"1e5bcd8e-8d77-41ce-a19b-123208313bdd","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714450000,"filename":"services-icon-1.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":878,"title":"services-icon-1","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-1/","alt":"","author":"1","description":"","caption":"","name":"services-icon-1","status":"inherit","modified":1662714450000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"6ecaeed1b2","delete":"1bf3504dd3","edit":"c7dd0fa454"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=878\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2221,"filesizeHumanReadable":"2 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-1e5bcd8e-8d77-41ce-a19b-123208313bdd .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-1e5bcd8e-8d77-41ce-a19b-123208313bdd .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-1e5bcd8e-8d77-41ce-a19b-123208313bdd .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-1e5bcd8e-8d77-41ce-a19b-123208313bdd olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2645,9 +2645,9 @@
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"588d53f1-03a4-40ae-8e04-f5117609f51c","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-588d53f1-03a4-40ae-8e04-f5117609f51c { background: #fff; }.olive-blocks-section-588d53f1-03a4-40ae-8e04-f5117609f51c { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-588d53f1-03a4-40ae-8e04-f5117609f51c olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"695ec0cf-b305-4193-8f93-e8e0134d8fc6","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714492000,"filename":"services-icon-2.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":879,"title":"services-icon-2","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-2/","alt":"","author":"1","description":"","caption":"","name":"services-icon-2","status":"inherit","modified":1662714492000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"eb8ce5e498","delete":"ef4626f2bb","edit":"1d9dcd2054"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=879\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2865,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-695ec0cf-b305-4193-8f93-e8e0134d8fc6 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-695ec0cf-b305-4193-8f93-e8e0134d8fc6 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-695ec0cf-b305-4193-8f93-e8e0134d8fc6 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-695ec0cf-b305-4193-8f93-e8e0134d8fc6 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"eda53e5c-5fd4-42ec-a871-c936027a5db1","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-eda53e5c-5fd4-42ec-a871-c936027a5db1 { background: #fff; }.olive-blocks-section-eda53e5c-5fd4-42ec-a871-c936027a5db1 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-eda53e5c-5fd4-42ec-a871-c936027a5db1 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"5d663baf-1937-4537-bd1c-122e2ca47ad6","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714492000,"filename":"services-icon-2.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":879,"title":"services-icon-2","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-2/","alt":"","author":"1","description":"","caption":"","name":"services-icon-2","status":"inherit","modified":1662714492000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"eb8ce5e498","delete":"ef4626f2bb","edit":"1d9dcd2054"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=879\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2865,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-5d663baf-1937-4537-bd1c-122e2ca47ad6 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-5d663baf-1937-4537-bd1c-122e2ca47ad6 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-5d663baf-1937-4537-bd1c-122e2ca47ad6 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-5d663baf-1937-4537-bd1c-122e2ca47ad6 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-2.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2669,9 +2669,9 @@
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"4f66797c-bb89-4e2a-92a1-dea7837e42d5","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-4f66797c-bb89-4e2a-92a1-dea7837e42d5 { background: #fff; }.olive-blocks-section-4f66797c-bb89-4e2a-92a1-dea7837e42d5 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-4f66797c-bb89-4e2a-92a1-dea7837e42d5 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"e9b55267-9e3d-4f24-a6e6-fcfe076838a1","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714526000,"filename":"services-icon-3.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":880,"title":"services-icon-3","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-3/","alt":"","author":"1","description":"","caption":"","name":"services-icon-3","status":"inherit","modified":1662714526000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"bb1e1b8832","delete":"a7a3069c9a","edit":"5d39abb6d9"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=880\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2567,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-e9b55267-9e3d-4f24-a6e6-fcfe076838a1 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-e9b55267-9e3d-4f24-a6e6-fcfe076838a1 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-e9b55267-9e3d-4f24-a6e6-fcfe076838a1 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-e9b55267-9e3d-4f24-a6e6-fcfe076838a1 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"01e37c20-0608-434b-ba86-a395eddfd3ef","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-01e37c20-0608-434b-ba86-a395eddfd3ef { background: #fff; }.olive-blocks-section-01e37c20-0608-434b-ba86-a395eddfd3ef { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-01e37c20-0608-434b-ba86-a395eddfd3ef olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"46171345-96fe-430d-8eb2-80bff078e36b","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714526000,"filename":"services-icon-3.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":880,"title":"services-icon-3","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-3/","alt":"","author":"1","description":"","caption":"","name":"services-icon-3","status":"inherit","modified":1662714526000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"bb1e1b8832","delete":"a7a3069c9a","edit":"5d39abb6d9"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=880\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2567,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-46171345-96fe-430d-8eb2-80bff078e36b .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-46171345-96fe-430d-8eb2-80bff078e36b .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-46171345-96fe-430d-8eb2-80bff078e36b .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-46171345-96fe-430d-8eb2-80bff078e36b olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-3.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2693,9 +2693,9 @@
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"8d0ba2a3-9e2d-4aa8-b27a-9074e8623b7c","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-8d0ba2a3-9e2d-4aa8-b27a-9074e8623b7c { background: #fff; }.olive-blocks-section-8d0ba2a3-9e2d-4aa8-b27a-9074e8623b7c { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-8d0ba2a3-9e2d-4aa8-b27a-9074e8623b7c olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"d3625037-43c5-4b5d-b921-bf745deb4425","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714579000,"filename":"services-icon-4.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":881,"title":"services-icon-4","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-4/","alt":"","author":"1","description":"","caption":"","name":"services-icon-4","status":"inherit","modified":1662714579000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"e223cf5fdd","delete":"51ae5adf45","edit":"cab59c04d5"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=881\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":1952,"filesizeHumanReadable":"2 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-d3625037-43c5-4b5d-b921-bf745deb4425 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-d3625037-43c5-4b5d-b921-bf745deb4425 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-d3625037-43c5-4b5d-b921-bf745deb4425 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-d3625037-43c5-4b5d-b921-bf745deb4425 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"6b5194ed-5eb2-45da-be68-deb47a3be079","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-6b5194ed-5eb2-45da-be68-deb47a3be079 { background: #fff; }.olive-blocks-section-6b5194ed-5eb2-45da-be68-deb47a3be079 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-6b5194ed-5eb2-45da-be68-deb47a3be079 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"140ef8c1-1704-4192-bcc0-693050aa1d2c","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714579000,"filename":"services-icon-4.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":881,"title":"services-icon-4","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-4/","alt":"","author":"1","description":"","caption":"","name":"services-icon-4","status":"inherit","modified":1662714579000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"e223cf5fdd","delete":"51ae5adf45","edit":"cab59c04d5"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=881\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":1952,"filesizeHumanReadable":"2 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-140ef8c1-1704-4192-bcc0-693050aa1d2c .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-140ef8c1-1704-4192-bcc0-693050aa1d2c .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-140ef8c1-1704-4192-bcc0-693050aa1d2c .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-140ef8c1-1704-4192-bcc0-693050aa1d2c olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-4.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2717,9 +2717,9 @@
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"2fdc1072-5da4-4014-a1ea-0698c44b5a5d","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-2fdc1072-5da4-4014-a1ea-0698c44b5a5d { background: #fff; }.olive-blocks-section-2fdc1072-5da4-4014-a1ea-0698c44b5a5d { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-2fdc1072-5da4-4014-a1ea-0698c44b5a5d olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"fbf693bf-a1f3-4a6a-a7ab-6b0a6511699f","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714626000,"filename":"services-icon-5.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":882,"title":"services-icon-5","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-5/","alt":"","author":"1","description":"","caption":"","name":"services-icon-5","status":"inherit","modified":1662714626000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"700919cf67","delete":"7ddb42da6a","edit":"ce5dadf4b0"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=882\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":3029,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-fbf693bf-a1f3-4a6a-a7ab-6b0a6511699f .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-fbf693bf-a1f3-4a6a-a7ab-6b0a6511699f .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-fbf693bf-a1f3-4a6a-a7ab-6b0a6511699f .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-fbf693bf-a1f3-4a6a-a7ab-6b0a6511699f olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"5e1a4bc0-799c-430c-9e4c-a3251bfe8c84","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-5e1a4bc0-799c-430c-9e4c-a3251bfe8c84 { background: #fff; }.olive-blocks-section-5e1a4bc0-799c-430c-9e4c-a3251bfe8c84 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-5e1a4bc0-799c-430c-9e4c-a3251bfe8c84 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"84915031-ce25-4eed-be93-04ec974b10d7","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714626000,"filename":"services-icon-5.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":882,"title":"services-icon-5","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-5/","alt":"","author":"1","description":"","caption":"","name":"services-icon-5","status":"inherit","modified":1662714626000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"700919cf67","delete":"7ddb42da6a","edit":"ce5dadf4b0"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=882\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":3029,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-84915031-ce25-4eed-be93-04ec974b10d7 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-84915031-ce25-4eed-be93-04ec974b10d7 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-84915031-ce25-4eed-be93-04ec974b10d7 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-84915031-ce25-4eed-be93-04ec974b10d7 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-5.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2741,9 +2741,9 @@
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"0e8d5939-09f1-4e86-90db-75987ac377c0","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-0e8d5939-09f1-4e86-90db-75987ac377c0 { background: #fff; }.olive-blocks-section-0e8d5939-09f1-4e86-90db-75987ac377c0 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-0e8d5939-09f1-4e86-90db-75987ac377c0 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"5dee055c-0c11-437c-8f0e-31c2754d5723","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714643000,"filename":"services-icon-6.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":883,"title":"services-icon-6","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-6/","alt":"","author":"1","description":"","caption":"","name":"services-icon-6","status":"inherit","modified":1662714643000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"f19f038eea","delete":"a7060327a7","edit":"cf75f97812"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=883\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2781,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-5dee055c-0c11-437c-8f0e-31c2754d5723 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-5dee055c-0c11-437c-8f0e-31c2754d5723 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-5dee055c-0c11-437c-8f0e-31c2754d5723 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-5dee055c-0c11-437c-8f0e-31c2754d5723 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"a5323cfc-f710-4185-b598-4353aa81c33a","blockAdvanceOptions":{"backgroundColor":"#fff","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-a5323cfc-f710-4185-b598-4353aa81c33a { background: #fff; }.olive-blocks-section-a5323cfc-f710-4185-b598-4353aa81c33a { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-a5323cfc-f710-4185-b598-4353aa81c33a olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"e0a6a197-c0c0-4a37-8736-86d88cfe423a","source":"image","size":"100","iconImage":{"uploading":false,"date":1662714643000,"filename":"services-icon-6.png","menuOrder":0,"uploadedTo":416,"type":"image","subtype":"png","id":883,"title":"services-icon-6","url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png","link":"https://demo.olivethemes.com/exo-nature-pro/home/services-icon-6/","alt":"","author":"1","description":"","caption":"","name":"services-icon-6","status":"inherit","modified":1662714643000,"mime":"image/png","icon":"https://demo.olivethemes.com/exo-nature-pro/wp-includes/images/media/default.png","dateFormatted":"September 9, 2022","nonces":{"update":"f19f038eea","delete":"a7060327a7","edit":"cf75f97812"},"editLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=883\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/profile.php","uploadedToTitle":"Home","uploadedToLink":"https://demo.olivethemes.com/exo-nature-pro/wp-admin/post.php?post=416\u0026action=edit","filesizeInBytes":2781,"filesizeHumanReadable":"3 KB","context":"","height":75,"width":100,"orientation":"landscape","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png","height":75,"width":100,"orientation":"landscape"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-e0a6a197-c0c0-4a37-8736-86d88cfe423a .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 100px;\n\t\t}.olive-blocks-section-e0a6a197-c0c0-4a37-8736-86d88cfe423a .olive-blocks-icon-wrapper img {\n\t\t\twidth: 100px;\n\t\t\tmax-width: 100px;\n\t\t}.olive-blocks-section-e0a6a197-c0c0-4a37-8736-86d88cfe423a .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-e0a6a197-c0c0-4a37-8736-86d88cfe423a olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/services-icon-6.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -2788,7 +2788,7 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"left","style":{"typography":{"lineHeight":"1.3","textTransform":"capitalize"}},"textColor":"white","className":" animated animated-fadeInUp","fontSize":"slider-title"} -->
 <h2 class="has-text-align-left animated animated-fadeInUp has-white-color has-text-color has-slider-title-font-size" style="line-height:1.3;text-transform:capitalize">EVENT&nbsp;&amp; HELPING US BY DONATION</h2>
 <!-- /wp:heading --></div>
@@ -2801,13 +2801,25 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:list {"textColor":"background-secondary","className":"list-style-two  animated animated-fadeInUp"} -->
-<ul class="list-style-two animated animated-fadeInUp has-background-secondary-color has-text-color"><li>Eco &amp; Wind Power</li><li>Solar Energy</li></ul>
+<ul class="list-style-two animated animated-fadeInUp has-background-secondary-color has-text-color"><!-- wp:list-item -->
+<li>Eco &amp; Wind Power</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Solar Energy</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:list {"textColor":"background-secondary","className":"list-style-two  animated animated-fadeInUp"} -->
-<ul class="list-style-two animated animated-fadeInUp has-background-secondary-color has-text-color"><li>Green Tree planation</li><li>Save White Tiger</li></ul>
+<ul class="list-style-two animated animated-fadeInUp has-background-secondary-color has-text-color"><!-- wp:list-item -->
+<li>Green Tree planation</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Save White Tiger</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -2825,18 +2837,18 @@
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:image {"id":893,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"}},"className":" no-margin"} -->
-<figure class="wp-block-image size-full  no-margin" style="border-radius:0px"><img src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/about.png" alt="" class="wp-image-893"/></figure>
+<figure class="wp-block-image size-full has-custom-border  no-margin"><img src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/about.png" alt="" class="wp-image-893" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
-<div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -2867,12 +2879,12 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"},"color":{"gradient":"linear-gradient(180deg,rgb(58,127,39) 47%,rgb(255,255,255) 47%)"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group has-background" style="background:linear-gradient(180deg,rgb(58,127,39) 47%,rgb(255,255,255) 47%);border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"},"color":{"gradient":"linear-gradient(180deg,rgb(58,127,39) 47%,rgb(255,255,255) 47%)"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="border-style:none;border-width:0px;background:linear-gradient(180deg,rgb(58,127,39) 47%,rgb(255,255,255) 47%);padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -2882,7 +2894,7 @@
 <p class="has-primary-color has-text-color">Services </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -2899,10 +2911,10 @@
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/grid {"blockClientId":"92e1536a-3243-47a9-96e2-958ef3dd050b","oliveblocksStyles":".olive-blocks-section-92e1536a-3243-47a9-96e2-958ef3dd050b { \u002d\u002dolive-blocks\u002d\u002dgrid-template-columns: 3; }"} -->
 <div class="wp-block-olive-blocks-grid olive-blocks-section-92e1536a-3243-47a9-96e2-958ef3dd050b olive-blocks-grid-version-2"><!-- wp:olive-blocks/grid-item {"blockClientId":"5fef99ff-550d-4981-a31b-60e294b80c7e"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-white-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":900,"sizeSlug":"full","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"no-margin image-zoom-hover"} -->
-<figure class="wp-block-image aligncenter size-full no-margin image-zoom-hover" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/1.jpeg" alt="" class="wp-image-900"/></figure>
+<figure class="wp-block-image aligncenter size-full has-custom-border no-margin image-zoom-hover"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/1.jpeg" alt="" class="wp-image-900" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -2929,10 +2941,10 @@
 <!-- /wp:olive-blocks/grid-item -->
 
 <!-- wp:olive-blocks/grid-item {"blockClientId":"5fef99ff-550d-4981-a31b-60e294b80c7e"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-white-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":901,"sizeSlug":"full","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"no-margin image-zoom-hover"} -->
-<figure class="wp-block-image aligncenter size-full no-margin image-zoom-hover" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/2.jpeg" alt="" class="wp-image-901"/></figure>
+<figure class="wp-block-image aligncenter size-full has-custom-border no-margin image-zoom-hover"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/2.jpeg" alt="" class="wp-image-901" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -2959,10 +2971,10 @@
 <!-- /wp:olive-blocks/grid-item -->
 
 <!-- wp:olive-blocks/grid-item {"blockClientId":"5fef99ff-550d-4981-a31b-60e294b80c7e"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"white","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-white-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":902,"sizeSlug":"full","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"no-margin image-zoom-hover"} -->
-<figure class="wp-block-image aligncenter size-full no-margin image-zoom-hover" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/5.jpeg" alt="" class="wp-image-902"/></figure>
+<figure class="wp-block-image aligncenter size-full has-custom-border no-margin image-zoom-hover"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/5.jpeg" alt="" class="wp-image-902" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -2991,11 +3003,11 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"},"color":{"background":"#f2f6f9"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"},"color":{"background":"#f2f6f9"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide has-background" style="background-color:#f2f6f9;padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","className":"animated animated-fadeInUp","layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide animated animated-fadeInUp"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide animated animated-fadeInUp"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -3005,7 +3017,7 @@
 <p class="has-primary-color has-text-color">Portfolio</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -3018,7 +3030,7 @@
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px","type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
 <!-- /wp:paragraph -->
@@ -3033,7 +3045,7 @@
 <div class="wp-block-olive-blocks-grid olive-blocks-section-31aec9d9-a15a-4675-a790-d900ce93f5bd olive-blocks-grid-version-2"><!-- wp:olive-blocks/grid-item {"blockClientId":"57e40f44-4741-434b-80b2-b5d6f112de5b"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/1.jpeg","id":900,"dimRatio":90,"focalPoint":{"x":"0.52","y":"0.54"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(32,61,39) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-900" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/1.jpeg" style="object-position:52% 54%" data-object-fit="cover" data-object-position="52% 54%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-900" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/1.jpeg" style="object-position:52% 54%" data-object-fit="cover" data-object-position="52% 54%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
@@ -3059,7 +3071,7 @@
 <!-- wp:olive-blocks/grid-item {"blockClientId":"6d0e0de2-67f9-4eb5-84e2-1a5d723924eb"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/5.jpeg","id":902,"dimRatio":90,"focalPoint":{"x":"0.33","y":"0.52"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(32,61,39) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-902" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/5.jpeg" style="object-position:33% 52%" data-object-fit="cover" data-object-position="33% 52%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-902" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/5.jpeg" style="object-position:33% 52%" data-object-fit="cover" data-object-position="33% 52%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
@@ -3085,7 +3097,7 @@
 <!-- wp:olive-blocks/grid-item {"blockClientId":"c1ce143b-141e-49aa-9174-6aaa65a8ea52"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/2.jpeg","id":901,"dimRatio":90,"focalPoint":{"x":"0.61","y":"0.58"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(32,61,39) 78%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(32,61,39) 78%)"></span><img class="wp-block-cover__image-background wp-image-901" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/2.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(32,61,39) 78%)"></span><img class="wp-block-cover__image-background wp-image-901" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/2.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -3111,7 +3123,7 @@
 <!-- wp:olive-blocks/grid-item {"blockClientId":"c1ce143b-141e-49aa-9174-6aaa65a8ea52"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg","id":891,"dimRatio":90,"focalPoint":{"x":"0.66","y":"0.59"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(32,61,39) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-891" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg" style="object-position:66% 59%" data-object-fit="cover" data-object-position="66% 59%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-891" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/slide2.jpeg" style="object-position:66% 59%" data-object-fit="cover" data-object-position="66% 59%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -3137,7 +3149,7 @@
 <!-- wp:olive-blocks/grid-item {"blockClientId":"c1ce143b-141e-49aa-9174-6aaa65a8ea52"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-2.jpeg","id":872,"dimRatio":90,"focalPoint":{"x":"0.44","y":"0.58"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(32,61,39) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-872" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-2.jpeg" style="object-position:44% 58%" data-object-fit="cover" data-object-position="44% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(32,61,39) 87%)"></span><img class="wp-block-cover__image-background wp-image-872" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-2.jpeg" style="object-position:44% 58%" data-object-fit="cover" data-object-position="44% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -3163,7 +3175,7 @@
 <!-- wp:olive-blocks/grid-item {"blockClientId":"c1ce143b-141e-49aa-9174-6aaa65a8ea52"} -->
 <div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-1.jpeg","id":875,"dimRatio":90,"focalPoint":{"x":"0.21","y":"0.51"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(32,61,39) 84%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(32,61,39) 84%)"></span><img class="wp-block-cover__image-background wp-image-875" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-1.jpeg" style="object-position:21% 51%" data-object-fit="cover" data-object-position="21% 51%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(32,61,39) 84%)"></span><img class="wp-block-cover__image-background wp-image-875" alt="" src="http://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/image-1.jpeg" style="object-position:21% 51%" data-object-fit="cover" data-object-position="21% 51%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -3189,10 +3201,10 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -3220,8 +3232,8 @@
 
 <!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/team {"blockClientId":"894af108-ea17-4caa-9175-6542d4ac5472","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}}},"columnSize":4,"oliveblocksStyles":".olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
-<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"b1ea16c3-1f27-4a29-a67a-fbc43110517c","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-b1ea16c3-1f27-4a29-a67a-fbc43110517c { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-b1ea16c3-1f27-4a29-a67a-fbc43110517c olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":925,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"4e2c057d-c265-4aa5-b4b9-437d64caf919","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-4e2c057d-c265-4aa5-b4b9-437d64caf919 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-4e2c057d-c265-4aa5-b4b9-437d64caf919 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":925,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/team-4.jpeg" alt="" class="wp-image-925"/></figure>
 <!-- /wp:image -->
 
@@ -3237,7 +3249,7 @@
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -3248,8 +3260,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"8019e800-7e24-490e-b58e-dd6af815eb63","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-8019e800-7e24-490e-b58e-dd6af815eb63 { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-8019e800-7e24-490e-b58e-dd6af815eb63 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":926,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"1200d0c3-63a3-4833-bf34-dfdd3961cf67","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-1200d0c3-63a3-4833-bf34-dfdd3961cf67 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-1200d0c3-63a3-4833-bf34-dfdd3961cf67 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":926,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/team-6.jpeg" alt="" class="wp-image-926"/></figure>
 <!-- /wp:image -->
 
@@ -3265,7 +3277,7 @@
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -3276,8 +3288,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"9c5ee3ba-cfc6-41d8-b1cc-d0820e2af3e0","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-9c5ee3ba-cfc6-41d8-b1cc-d0820e2af3e0 { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-9c5ee3ba-cfc6-41d8-b1cc-d0820e2af3e0 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":927,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"e783dd61-da6d-464c-81cd-3174d807e4e9","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-e783dd61-da6d-464c-81cd-3174d807e4e9 { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-e783dd61-da6d-464c-81cd-3174d807e4e9 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":927,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/team-1.jpeg" alt="" class="wp-image-927"/></figure>
 <!-- /wp:image -->
 
@@ -3293,7 +3305,7 @@
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -3304,8 +3316,8 @@
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"79c3626e-06db-4c56-8cda-4337637f14e6","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-79c3626e-06db-4c56-8cda-4337637f14e6 { background: #fff; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-79c3626e-06db-4c56-8cda-4337637f14e6 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":928,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"ea3ebdab-36fe-43d6-a83d-87ac01a22fcc","className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-ea3ebdab-36fe-43d6-a83d-87ac01a22fcc { background: #fff; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-ea3ebdab-36fe-43d6-a83d-87ac01a22fcc olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":928,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-nature-pro/wp-content/uploads/sites/12/2022/09/team-2.jpeg" alt="" class="wp-image-928"/></figure>
 <!-- /wp:image -->
 
@@ -3321,7 +3333,7 @@
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"secondary","iconColorValue":"#22822d","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -3335,14 +3347,14 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"color":{"gradient":"linear-gradient(90deg,rgb(255,255,255) 33%,rgb(242,246,249) 33%)"}},"className":" animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"color":{"gradient":"linear-gradient(90deg,rgb(255,255,255) 33%,rgb(242,246,249) 33%)"}},"className":" animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide animated animated-fadeInUp has-background" style="background:linear-gradient(90deg,rgb(255,255,255) 33%,rgb(242,246,249) 33%);padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/advance-slider {"blockClientId":"f9e605ef-2f12-4960-ae1b-7b569e90c20c","blockAdvanceOptions":{"hasPagination":true,"hasNavigation":true,"columns":1,"spaceBetween":0,"arrows":{"type":"style-1","normalColor":"#6ac610","hoverBackgroundColor":"#22822d","hoverColor":"#fff"},"paginations":{"width":"10px","height":"20px","borderWidth":"0","borderRadius":"0px","backgroundColor":"#6ac610","borderColor":"#fff","hoverBackgroundColor":"#6ac610"},"layout":"layout-5"},"oliveblocksStyles":".olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-next  { color: #6ac610; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-prev  { color: #6ac610; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-pagination .swiper-pagination-bullet  { background-color: #6ac610;border-color: #fff;border-radius: 0px;border-width: 0;border-style: solid;height: 20px;width: 10px; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-next  { color: #6ac610; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-prev  { color: #6ac610; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-next:hover  { color: #fff;background-color: #22822d; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-button-prev:hover  { color: #fff;background-color: #22822d; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-pagination .swiper-pagination-bullet  { background-color: #6ac610;border-color: #fff;border-radius: 0px;border-width: 0px;border-style: solid;height: 20px;width: 10px; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active  { background-color: #6ac610; }.olive-blocks-section-f9e605ef-2f12-4960-ae1b-7b569e90c20c .swiper-pagination .swiper-pagination-bullet:hover  { background-color: #6ac610; }"} -->
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":490,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-2/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/12/2022/08/business-man-large-2.jpeg" alt="" class="wp-image-490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"c41f64ef-3ead-4d06-b0ed-75f671516499","blockAdvanceOptions":{"textColor":"#6ac610"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-c41f64ef-3ead-4d06-b0ed-75f671516499 .olive-blocks-icon-wrapper { color: #6ac610; }.olive-blocks-section-c41f64ef-3ead-4d06-b0ed-75f671516499 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-c41f64ef-3ead-4d06-b0ed-75f671516499 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-c41f64ef-3ead-4d06-b0ed-75f671516499 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-c41f64ef-3ead-4d06-b0ed-75f671516499 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"3e45e245-6127-4dea-909a-f8d056bdc120","blockAdvanceOptions":{"textColor":"#6ac610"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-3e45e245-6127-4dea-909a-f8d056bdc120 .olive-blocks-icon-wrapper { color: #6ac610; }.olive-blocks-section-3e45e245-6127-4dea-909a-f8d056bdc120 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-3e45e245-6127-4dea-909a-f8d056bdc120 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-3e45e245-6127-4dea-909a-f8d056bdc120 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-3e45e245-6127-4dea-909a-f8d056bdc120 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -3365,8 +3377,8 @@
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":482,"mediaLink":"https://demo.olivethemes.com/olive-blocks/home/business-man-large-5/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"white"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-white-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/olive-blocks/wp-content/uploads/sites/12/2022/08/business-man-large-5.jpeg" alt="" class="wp-image-482 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"fb86e8ad-819d-432b-b199-c89fa8bc5c57","blockAdvanceOptions":{"textColor":"#6ac610"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-fb86e8ad-819d-432b-b199-c89fa8bc5c57 .olive-blocks-icon-wrapper { color: #6ac610; }.olive-blocks-section-fb86e8ad-819d-432b-b199-c89fa8bc5c57 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-fb86e8ad-819d-432b-b199-c89fa8bc5c57 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-fb86e8ad-819d-432b-b199-c89fa8bc5c57 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-fb86e8ad-819d-432b-b199-c89fa8bc5c57 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"3665aa98-d028-4616-9d1e-611d794a7bcb","blockAdvanceOptions":{"textColor":"#6ac610"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-3665aa98-d028-4616-9d1e-611d794a7bcb .olive-blocks-icon-wrapper { color: #6ac610; }.olive-blocks-section-3665aa98-d028-4616-9d1e-611d794a7bcb .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-3665aa98-d028-4616-9d1e-611d794a7bcb .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-3665aa98-d028-4616-9d1e-611d794a7bcb .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-3665aa98-d028-4616-9d1e-611d794a7bcb olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"black","fontSize":"medium"} -->
@@ -3389,11 +3401,11 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"0px"}}},"layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide" style="padding-bottom:0px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:0px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -3403,7 +3415,7 @@
 <p class="has-primary-color has-text-color">Our Success Stories</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -3423,7 +3435,7 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"30px","bottom":"80px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"80px","right":"30px","bottom":"80px","left":"30px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:80px;padding-right:30px;padding-bottom:80px;padding-left:30px"><!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/advance-slider {"blockClientId":"7385c26d-27f8-4cc9-a45f-3db83f99fb32","blockAdvanceOptions":{"hasPagination":false,"hasNavigation":false,"columns":6,"spaceBetween":40,"arrows":{"type":"style-1","backgroundColor":"#fff","normalColor":"#000"},"paginations":{"width":"15px","height":"15px","borderWidth":"3px","borderRadius":"50px","backgroundColor":"#fff"},"autoplay":true},"oliveblocksStyles":".olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-button-next  { color: #000;background-color: #fff; }.olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-button-prev  { color: #000;background-color: #fff; }.olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3px;border-style: solid;height: 15px;width: 15px; }.olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-button-next  { color: #000;background-color: #fff; }.olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-button-prev  { color: #000;background-color: #fff; }.olive-blocks-section-7385c26d-27f8-4cc9-a45f-3db83f99fb32 .swiper-pagination .swiper-pagination-bullet  { background-color: #fff;border-radius: 50px;border-width: 3pxpx;border-style: solid;height: 15px;width: 15px; }"} -->
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"5a3faf09-c1d9-4211-a7f7-adc352e2b3cd"} -->
@@ -3477,8 +3489,8 @@
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-24 04:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-24 04:42:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-09 15:45:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-09 15:45:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-11 14:10:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-11 14:10:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -5372,18 +5384,18 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"custom","url":"https://demo.olivethemes.com/exo-nature-pro/","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":19,"url":"https://demo.olivethemes.com/exo-nature-pro/about-us/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":19,"url":"/about-us/","kind":"post-type","isTopLevelLink":true} /-->
 
 <!-- wp:navigation-submenu {"label":"Pages","type":"custom","url":"#","kind":"custom","isTopLevelItem":true} -->
-<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":597,"url":"https://demo.olivethemes.com/exo-nature-pro/portfolio/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":597,"url":"/portfolio/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"FAQ","type":"page","id":590,"url":"https://demo.olivethemes.com/exo-nature-pro/faq/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"FAQ","type":"page","id":590,"url":"/faq/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Testimonials","type":"page","id":592,"url":"https://demo.olivethemes.com/exo-nature-pro/testimonials/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Testimonials","type":"page","id":592,"url":"/testimonials/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Gallery","type":"page","id":589,"url":"https://demo.olivethemes.com/exo-nature-pro/gallery/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Gallery","type":"page","id":589,"url":"/gallery/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Team Member","type":"page","id":591,"url":"https://demo.olivethemes.com/exo-nature-pro/team-member/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Team Member","type":"page","id":591,"url":"/team-member/","kind":"post-type","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Header Parts","type":"custom","url":"#","kind":"custom","isTopLevelItem":true} -->
@@ -5394,17 +5406,17 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:navigation-link {"label":"Header Four","type":"page","id":769,"url":"https://demo.olivethemes.com/exo-nature-pro/header-four/","kind":"post-type","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"Services","type":"page","id":22,"url":"https://demo.olivethemes.com/exo-nature-pro/services/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"Services","type":"page","id":22,"url":"/services/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"News","type":"page","id":21,"url":"https://demo.olivethemes.com/exo-nature-pro/news/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"News","type":"page","id":21,"url":"/news/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":20,"url":"https://demo.olivethemes.com/exo-nature-pro/contact-us/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":20,"url":"/contact-us/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>780</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-26 10:45:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-26 10:45:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-26 10:49:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-26 10:49:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-11 14:10:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-11 14:10:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu-6]]></wp:post_name>

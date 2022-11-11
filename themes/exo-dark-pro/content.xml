@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.2" created="2022-09-22 10:37" -->
+	<!-- generator="WordPress/6.1" created="2022-11-11 14:17" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Exo Dark Pro</title>
 	<link>https://demo.olivethemes.com/exo-dark-pro</link>
 	<description>Multipurpose WP Theme</description>
-	<pubDate>Thu, 22 Sep 2022 10:37:50 +0000</pubDate>
+	<pubDate>Fri, 11 Nov 2022 14:17:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.olivethemes.com/</wp:base_site_url>
@@ -102,7 +102,7 @@
 				<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 
 		<item>
 		<title><![CDATA[Branding Identity Corporate people point logo vector design temp]]></title>
@@ -4404,17 +4404,17 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <div class="wp-block-group alignfull" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:olive-blocks/advance-slider {"blockClientId":"1f97eb74-0095-47d2-ad4f-b5558ac707c1","blockAdvanceOptions":{"hasPagination":true,"hasNavigation":true,"columns":1,"spaceBetween":0,"arrows":{"type":"style-1","backgroundColor":"#000000","normalColor":"#fff","borderRadius":"100px","hoverColor":"#fff","hoverBackgroundColor":"#ff6202"},"paginations":{"width":"15px","height":"15px","borderWidth":"3px","borderRadius":"55px","backgroundColor":"#ff6202","normalColor":"#ff6202","borderColor":"#f9faff"},"layout":"layout-2"},"oliveblocksStyles":".olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-next  { color: #fff;background-color: #000000; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-prev  { color: #fff;background-color: #000000; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-pagination .swiper-pagination-bullet  { background-color: #ff6202;border-color: #f9faff;border-radius: 55px;border-width: 3px;border-style: solid;height: 15px;width: 15px; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-next  { color: #fff;background-color: #000000;border-radius: 100px; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-prev  { color: #fff;background-color: #000000;border-radius: 100px; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-next:hover  { color: #fff;background-color: #ff6202; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-button-prev:hover  { color: #fff;background-color: #ff6202; }.olive-blocks-section-1f97eb74-0095-47d2-ad4f-b5558ac707c1 .swiper-pagination .swiper-pagination-bullet  { color: #ff6202;background-color: #ff6202;border-color: #f9faff;border-radius: 55px;border-width: 3pxpx;border-style: solid;height: 15px;width: 15px; }"} -->
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"93ae709f-dfb7-4689-9ead-c5fc8c8a1611"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-93ae709f-dfb7-4689-9ead-c5fc8c8a1611 olive-blocks-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/agency-slider02.jpeg","id":586,"focalPoint":{"x":"0.85","y":"0.78"},"customGradient":"linear-gradient(90deg,rgb(0,0,0) 30%,rgba(0,0,0,0.34) 93%)","align":"full","style":{"spacing":{"padding":{"top":"14vw","right":"30px","bottom":"14vw","left":"30px"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 30%,rgba(0,0,0,0.34) 93%)"></span><img class="wp-block-cover__image-background wp-image-586" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/agency-slider02.jpeg" style="object-position:85% 78%" data-object-fit="cover" data-object-position="85% 78%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-100 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(0,0,0) 30%,rgba(0,0,0,0.34) 93%)"></span><img class="wp-block-cover__image-background wp-image-586" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/agency-slider02.jpeg" style="object-position:85% 78%" data-object-fit="cover" data-object-position="85% 78%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","left":"5%"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-left:5%"><!-- wp:heading {"textAlign":"left","level":3,"style":{"typography":{"lineHeight":"1.5","letterSpacing":"3px"}},"textColor":"primary","className":"animated animated-fadeInUp"} -->
-<h3 class="has-text-align-left animated animated-fadeInUp has-primary-color has-text-color" style="line-height:1.5;letter-spacing:3px">We Are Professionals</h3>
+<h3 class="has-text-align-left animated animated-fadeInUp has-primary-color has-text-color" style="letter-spacing:3px;line-height:1.5">We Are Professionals</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"textColor":"white","className":"animated animated-fadeInUp","fontSize":"extra-huge"} -->
 <h2 class="has-text-align-left animated animated-fadeInUp has-white-color has-text-color has-extra-huge-font-size" style="font-style:normal;font-weight:700;line-height:1.5">The Perfect Digital Agency</h2>
 <!-- /wp:heading -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"5px"}},"className":"animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"0px"}}} -->
 <div class="wp-block-columns alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"textColor":"white"} -->
@@ -4448,10 +4448,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"93ae709f-dfb7-4689-9ead-c5fc8c8a1611"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-93ae709f-dfb7-4689-9ead-c5fc8c8a1611 olive-blocks-advance-slide-item-version-2"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/home-bg-1.jpeg","id":547,"dimRatio":80,"overlayColor":"background-secondary","focalPoint":{"x":"0.56","y":"0.91"},"align":"full","style":{"spacing":{"padding":{"top":"14vw","right":"30px","bottom":"14vw","left":"30px"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-background-secondary-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-547" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/home-bg-1.jpeg" style="object-position:56% 91%" data-object-fit="cover" data-object-position="56% 91%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull" style="padding-top:14vw;padding-right:30px;padding-bottom:14vw;padding-left:30px"><span aria-hidden="true" class="wp-block-cover__background has-background-secondary-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-547" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/home-bg-1.jpeg" style="object-position:56% 91%" data-object-fit="cover" data-object-position="56% 91%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","left":"0%","bottom":"0px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0%"><!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"lineHeight":"1.5","letterSpacing":"3px"}},"textColor":"primary","className":"animated animated-fadeInUp","fontSize":"extra-large"} -->
-<h3 class="has-text-align-center animated animated-fadeInUp has-primary-color has-text-color has-extra-large-font-size" style="line-height:1.5;letter-spacing:3px">We Are Innovative</h3>
+<h3 class="has-text-align-center animated animated-fadeInUp has-primary-color has-text-color has-extra-large-font-size" style="letter-spacing:3px;line-height:1.5">We Are Innovative</h3>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.5"}},"textColor":"white","className":"animated animated-fadeInUp","fontSize":"extra-huge"} -->
@@ -4481,10 +4481,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/advance-slide-item -->
 <!-- /wp:olive-blocks/advance-slider -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -4494,7 +4494,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-primary-color has-text-color">Services</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -4507,7 +4507,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px","type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
 <!-- /wp:paragraph -->
@@ -4519,9 +4519,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->
 
 <!-- wp:olive-blocks/service {"blockClientId":"7e6ce6af-2d5f-4181-9cff-813c3e4b0737","blockAdvanceOptions":{"padding":{"desktop":{"top":"0px","bottom":"0px","left":"0px","right":"0px"}},"margin":{"desktop":{"bottom":"50px"}}},"columnSize":3,"align":"wide","oliveblocksStyles":".olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 { padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;margin-bottom: 50px; }"} -->
-<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"4aedab2c-b3de-4701-800e-2a335e0ce7df","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-4aedab2c-b3de-4701-800e-2a335e0ce7df { background: #111111; }.olive-blocks-section-4aedab2c-b3de-4701-800e-2a335e0ce7df { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-4aedab2c-b3de-4701-800e-2a335e0ce7df olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"85ead339-3a94-4874-9441-0f13b806eed2","source":"image","iconImage":{"id":259,"title":"icon-33-1","filename":"icon-33-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-33-1/","alt":"","author":"1","description":"","caption":"","name":"icon-33-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:11:10.000Z","modified":"2022-08-22T11:11:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"15922238fa","delete":"13c4dfa040","edit":"a2e51b80ac"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=259\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":788,"filesizeHumanReadable":"788 B","context":"","height":50,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png","height":50,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-85ead339-3a94-4874-9441-0f13b806eed2 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-85ead339-3a94-4874-9441-0f13b806eed2 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-85ead339-3a94-4874-9441-0f13b806eed2 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-85ead339-3a94-4874-9441-0f13b806eed2 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png" alt=""/></a></div>
+<div class="wp-block-olive-blocks-service alignwide olive-blocks-service-layout-1 olive-blocks-service-col-3 olive-blocks-section-7e6ce6af-2d5f-4181-9cff-813c3e4b0737 olive-blocks-service-version-2"><div class="olive-blocks-service-block"><!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"b129b022-9d5b-4fc7-be0f-d2005cb6d6da","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-b129b022-9d5b-4fc7-be0f-d2005cb6d6da { background: #111111; }.olive-blocks-section-b129b022-9d5b-4fc7-be0f-d2005cb6d6da { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-b129b022-9d5b-4fc7-be0f-d2005cb6d6da olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"969a0309-7dea-483a-b47e-199fd99d892a","source":"image","iconImage":{"id":259,"title":"icon-33-1","filename":"icon-33-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-33-1/","alt":"","author":"1","description":"","caption":"","name":"icon-33-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:11:10.000Z","modified":"2022-08-22T11:11:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"15922238fa","delete":"13c4dfa040","edit":"a2e51b80ac"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=259\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":788,"filesizeHumanReadable":"788 B","context":"","height":50,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png","height":50,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-969a0309-7dea-483a-b47e-199fd99d892a .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-969a0309-7dea-483a-b47e-199fd99d892a .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-969a0309-7dea-483a-b47e-199fd99d892a .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-969a0309-7dea-483a-b47e-199fd99d892a olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-33-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4543,9 +4543,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"243f8f9d-0aae-44c6-bf8e-9c529a509fe4","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-243f8f9d-0aae-44c6-bf8e-9c529a509fe4 { background: #111111; }.olive-blocks-section-243f8f9d-0aae-44c6-bf8e-9c529a509fe4 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-243f8f9d-0aae-44c6-bf8e-9c529a509fe4 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"50bad5ac-275f-44f8-be44-6fec08330670","source":"image","iconImage":{"id":260,"title":"icon-66-1","filename":"icon-66-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-66-1/","alt":"","author":"1","description":"","caption":"","name":"icon-66-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:12:55.000Z","modified":"2022-08-22T11:12:55.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"dbdcdda9a9","delete":"c209dd6c35","edit":"84722a5fbd"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=260\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":674,"filesizeHumanReadable":"674 B","context":"","height":48,"width":39,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png","height":48,"width":39,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-50bad5ac-275f-44f8-be44-6fec08330670 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-50bad5ac-275f-44f8-be44-6fec08330670 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-50bad5ac-275f-44f8-be44-6fec08330670 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-50bad5ac-275f-44f8-be44-6fec08330670 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"5aef7400-8c7f-48f7-aedf-7941c8eadbc1","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-5aef7400-8c7f-48f7-aedf-7941c8eadbc1 { background: #111111; }.olive-blocks-section-5aef7400-8c7f-48f7-aedf-7941c8eadbc1 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-5aef7400-8c7f-48f7-aedf-7941c8eadbc1 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"15ec03b2-4ad8-41a1-b604-20ca8d7855d2","source":"image","iconImage":{"id":260,"title":"icon-66-1","filename":"icon-66-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-66-1/","alt":"","author":"1","description":"","caption":"","name":"icon-66-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:12:55.000Z","modified":"2022-08-22T11:12:55.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"dbdcdda9a9","delete":"c209dd6c35","edit":"84722a5fbd"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=260\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":674,"filesizeHumanReadable":"674 B","context":"","height":48,"width":39,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png","height":48,"width":39,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-15ec03b2-4ad8-41a1-b604-20ca8d7855d2 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-15ec03b2-4ad8-41a1-b604-20ca8d7855d2 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-15ec03b2-4ad8-41a1-b604-20ca8d7855d2 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-15ec03b2-4ad8-41a1-b604-20ca8d7855d2 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-66-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4567,9 +4567,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"21f72ad6-e975-487c-beef-90d03da4dd88","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-21f72ad6-e975-487c-beef-90d03da4dd88 { background: #111111; }.olive-blocks-section-21f72ad6-e975-487c-beef-90d03da4dd88 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-21f72ad6-e975-487c-beef-90d03da4dd88 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"897da78e-9f21-48eb-883c-2a28bbe3ed2a","source":"image","iconImage":{"id":261,"title":"icon-99-1","filename":"icon-99-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-99-1/","alt":"","author":"1","description":"","caption":"","name":"icon-99-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:01.000Z","modified":"2022-08-22T11:13:01.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"ec6ec370a9","delete":"e0f9bb5ef6","edit":"bef0247ba5"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=261\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":922,"filesizeHumanReadable":"922 B","context":"","height":46,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png","height":46,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-897da78e-9f21-48eb-883c-2a28bbe3ed2a .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-897da78e-9f21-48eb-883c-2a28bbe3ed2a .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-897da78e-9f21-48eb-883c-2a28bbe3ed2a .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-897da78e-9f21-48eb-883c-2a28bbe3ed2a olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"08d86aad-ac67-4c03-a443-2317b607e505","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-08d86aad-ac67-4c03-a443-2317b607e505 { background: #111111; }.olive-blocks-section-08d86aad-ac67-4c03-a443-2317b607e505 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-08d86aad-ac67-4c03-a443-2317b607e505 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"8c10e534-f0f6-4779-80e6-5895b51d0513","source":"image","iconImage":{"id":261,"title":"icon-99-1","filename":"icon-99-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-99-1/","alt":"","author":"1","description":"","caption":"","name":"icon-99-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:01.000Z","modified":"2022-08-22T11:13:01.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"ec6ec370a9","delete":"e0f9bb5ef6","edit":"bef0247ba5"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=261\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":922,"filesizeHumanReadable":"922 B","context":"","height":46,"width":40,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png","height":46,"width":40,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-8c10e534-f0f6-4779-80e6-5895b51d0513 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-8c10e534-f0f6-4779-80e6-5895b51d0513 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-8c10e534-f0f6-4779-80e6-5895b51d0513 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-8c10e534-f0f6-4779-80e6-5895b51d0513 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-99-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4591,9 +4591,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"68b9743d-43eb-4d7b-ae97-607ee72df50f","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-68b9743d-43eb-4d7b-ae97-607ee72df50f { background: #111111; }.olive-blocks-section-68b9743d-43eb-4d7b-ae97-607ee72df50f { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-68b9743d-43eb-4d7b-ae97-607ee72df50f olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"d67a7bc8-23a7-4957-9dc0-8aac2290df8f","source":"image","iconImage":{"id":262,"title":"icon-111-1","filename":"icon-111-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-111-1/","alt":"","author":"1","description":"","caption":"","name":"icon-111-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:10.000Z","modified":"2022-08-22T11:13:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"14d41da7da","delete":"e82e85bf47","edit":"5bef61a6ed"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=262\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":786,"filesizeHumanReadable":"786 B","context":"","height":55,"width":42,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png","height":55,"width":42,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-d67a7bc8-23a7-4957-9dc0-8aac2290df8f .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-d67a7bc8-23a7-4957-9dc0-8aac2290df8f .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-d67a7bc8-23a7-4957-9dc0-8aac2290df8f .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-d67a7bc8-23a7-4957-9dc0-8aac2290df8f olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"579062d5-a441-4747-b8b2-1d4a309f912f","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-579062d5-a441-4747-b8b2-1d4a309f912f { background: #111111; }.olive-blocks-section-579062d5-a441-4747-b8b2-1d4a309f912f { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-579062d5-a441-4747-b8b2-1d4a309f912f olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"6e528955-e0ab-4e27-bde8-49d69de54e87","source":"image","iconImage":{"id":262,"title":"icon-111-1","filename":"icon-111-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-111-1/","alt":"","author":"1","description":"","caption":"","name":"icon-111-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:10.000Z","modified":"2022-08-22T11:13:10.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"14d41da7da","delete":"e82e85bf47","edit":"5bef61a6ed"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=262\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":786,"filesizeHumanReadable":"786 B","context":"","height":55,"width":42,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png","height":55,"width":42,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-6e528955-e0ab-4e27-bde8-49d69de54e87 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-6e528955-e0ab-4e27-bde8-49d69de54e87 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-6e528955-e0ab-4e27-bde8-49d69de54e87 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-6e528955-e0ab-4e27-bde8-49d69de54e87 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-111-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4615,9 +4615,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"b047f27c-0f5e-4d3e-a4fe-f892a19e3d3d","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-b047f27c-0f5e-4d3e-a4fe-f892a19e3d3d { background: #111111; }.olive-blocks-section-b047f27c-0f5e-4d3e-a4fe-f892a19e3d3d { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-b047f27c-0f5e-4d3e-a4fe-f892a19e3d3d olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"0eaa290c-b76d-434d-9c5c-d542827113c3","source":"image","iconImage":{"id":263,"title":"icon-44-1","filename":"icon-44-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-44-1/","alt":"","author":"1","description":"","caption":"","name":"icon-44-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:17.000Z","modified":"2022-08-22T11:13:17.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"35f0fda243","delete":"7b0e4d2aba","edit":"e1260a14dd"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=263\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":747,"filesizeHumanReadable":"747 B","context":"","height":54,"width":44,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png","height":54,"width":44,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-0eaa290c-b76d-434d-9c5c-d542827113c3 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-0eaa290c-b76d-434d-9c5c-d542827113c3 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-0eaa290c-b76d-434d-9c5c-d542827113c3 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-0eaa290c-b76d-434d-9c5c-d542827113c3 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"6ea39613-d60a-4c05-a304-67e9349500b2","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-6ea39613-d60a-4c05-a304-67e9349500b2 { background: #111111; }.olive-blocks-section-6ea39613-d60a-4c05-a304-67e9349500b2 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-6ea39613-d60a-4c05-a304-67e9349500b2 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"4db6a630-3f77-4106-bf66-db2bdc550475","source":"image","iconImage":{"id":263,"title":"icon-44-1","filename":"icon-44-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-44-1/","alt":"","author":"1","description":"","caption":"","name":"icon-44-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:17.000Z","modified":"2022-08-22T11:13:17.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"35f0fda243","delete":"7b0e4d2aba","edit":"e1260a14dd"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=263\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":747,"filesizeHumanReadable":"747 B","context":"","height":54,"width":44,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png","height":54,"width":44,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-4db6a630-3f77-4106-bf66-db2bdc550475 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-4db6a630-3f77-4106-bf66-db2bdc550475 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-4db6a630-3f77-4106-bf66-db2bdc550475 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-4db6a630-3f77-4106-bf66-db2bdc550475 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-44-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4639,9 +4639,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:olive-blocks/info-box -->
 
-<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"16b67dc7-f0c8-4b0d-a14a-9055def84dae","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-16b67dc7-f0c8-4b0d-a14a-9055def84dae { background: #111111; }.olive-blocks-section-16b67dc7-f0c8-4b0d-a14a-9055def84dae { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
-<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-16b67dc7-f0c8-4b0d-a14a-9055def84dae olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"169ccb68-03a7-4d2e-8be0-6e8d488dff19","source":"image","iconImage":{"id":264,"title":"icon-77-1","filename":"icon-77-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-77-1/","alt":"","author":"1","description":"","caption":"","name":"icon-77-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:24.000Z","modified":"2022-08-22T11:13:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"8b4507c1f5","delete":"907a4a28b6","edit":"5b26dbcb53"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=264\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":710,"filesizeHumanReadable":"710 B","context":"","height":46,"width":36,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png","height":46,"width":36,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-169ccb68-03a7-4d2e-8be0-6e8d488dff19 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-169ccb68-03a7-4d2e-8be0-6e8d488dff19 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-169ccb68-03a7-4d2e-8be0-6e8d488dff19 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-169ccb68-03a7-4d2e-8be0-6e8d488dff19 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png" alt=""/></a></div>
+<!-- wp:olive-blocks/info-box {"className":"has-shadow-dark animated animated-fadeInUp","blockClientId":"08dbee81-6dd8-4f97-9ad8-3768b09bff60","blockAdvanceOptions":{"backgroundColor":"#111111","padding":{"desktop":{"top":"40px","right":"50px","bottom":"40px","left":"50px"}}},"oliveblocksStyles":".olive-blocks-section-08dbee81-6dd8-4f97-9ad8-3768b09bff60 { background: #111111; }.olive-blocks-section-08dbee81-6dd8-4f97-9ad8-3768b09bff60 { padding-top: 40px;padding-right: 50px;padding-bottom: 40px;padding-left: 50px; }"} -->
+<div class="wp-block-olive-blocks-info-box olive-blocks-info-box-layout-1 olive-blocks-section-08dbee81-6dd8-4f97-9ad8-3768b09bff60 olive-blocks-info-box-version-2 has-shadow-dark animated animated-fadeInUp"><!-- wp:olive-blocks/icon {"blockClientId":"7890cfea-19eb-48a0-a2d3-ea2bf4751a5a","source":"image","iconImage":{"id":264,"title":"icon-77-1","filename":"icon-77-1.png","url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png","link":"https://demo.olivethemes.com/exo-dark-pro/icon-77-1/","alt":"","author":"1","description":"","caption":"","name":"icon-77-1","status":"inherit","uploadedTo":0,"date":"2022-08-22T11:13:24.000Z","modified":"2022-08-22T11:13:24.000Z","menuOrder":0,"mime":"image/png","type":"image","subtype":"png","icon":"https://demo.olivethemes.com/exo-dark-pro/wp-includes/images/media/default.png","dateFormatted":"August 22, 2022","nonces":{"update":"8b4507c1f5","delete":"907a4a28b6","edit":"5b26dbcb53"},"editLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/post.php?post=264\u0026action=edit","meta":false,"authorName":"siteadmin","authorLink":"https://demo.olivethemes.com/exo-dark-pro/wp-admin/profile.php","filesizeInBytes":710,"filesizeHumanReadable":"710 B","context":"","height":46,"width":36,"orientation":"portrait","sizes":{"full":{"url":"http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png","height":46,"width":36,"orientation":"portrait"}},"compat":{"item":"","meta":""}},"oliveblocksStyles":".olive-blocks-section-7890cfea-19eb-48a0-a2d3-ea2bf4751a5a .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-7890cfea-19eb-48a0-a2d3-ea2bf4751a5a .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-7890cfea-19eb-48a0-a2d3-ea2bf4751a5a .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-center olive-blocks-section-7890cfea-19eb-48a0-a2d3-ea2bf4751a5a olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><img class="" src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/icon-77-1.png" alt=""/></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"className":"olive-blocks-admin-info-box-block-title"} -->
@@ -4671,8 +4671,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"layout":{"inherit":true}} -->
-<div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"50px","bottom":"50px","right":"40px","left":"40px"}}},"backgroundColor":"secondary","className":"animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"50px","bottom":"50px","right":"40px","left":"40px"}}},"backgroundColor":"secondary","className":"animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide animated animated-fadeInUp has-secondary-background-color has-background" style="padding-top:50px;padding-right:40px;padding-bottom:50px;padding-left:40px"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"textColor":"white"} -->
 <h2 class="has-white-color has-text-color">24/7 Customer Support Services </h2>
@@ -4687,18 +4687,18 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":" animated animated-fadeInUp"} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:image {"id":63,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"0px"}},"className":" no-margin"} -->
-<figure class="wp-block-image size-full  no-margin" style="border-radius:0px"><img src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/about-img.png" alt="" class="wp-image-63"/></figure>
+<figure class="wp-block-image size-full has-custom-border  no-margin"><img src="http://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/about-img.png" alt="" class="wp-image-63" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
-<div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"20px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -4729,12 +4729,12 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"},"color":{"gradient":"linear-gradient(180deg,rgb(34,31,60) 47%,rgb(0,0,0) 47%)"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group has-background" style="background:linear-gradient(180deg,rgb(34,31,60) 47%,rgb(0,0,0) 47%);border-style:none;border-width:0px;padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"border":{"width":"0px","style":"none"},"color":{"gradient":"linear-gradient(180deg,rgb(34,31,60) 47%,rgb(0,0,0) 47%)"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="border-style:none;border-width:0px;background:linear-gradient(180deg,rgb(34,31,60) 47%,rgb(0,0,0) 47%);padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -4744,7 +4744,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-primary-color has-text-color">Services </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -4765,10 +4765,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:group {"align":"wide"} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/grid {"blockClientId":"92e1536a-3243-47a9-96e2-958ef3dd050b","oliveblocksStyles":".olive-blocks-section-92e1536a-3243-47a9-96e2-958ef3dd050b { \u002d\u002dolive-blocks\u002d\u002dgrid-template-columns: 3; }"} -->
 <div class="wp-block-olive-blocks-grid olive-blocks-section-92e1536a-3243-47a9-96e2-958ef3dd050b olive-blocks-grid-version-2"><!-- wp:olive-blocks/grid-item {"blockClientId":"5fef99ff-550d-4981-a31b-60e294b80c7e"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":582,"sizeSlug":"large","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"no-margin image-zoom-hover"} -->
-<figure class="wp-block-image aligncenter size-large no-margin image-zoom-hover" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery4-1024x789.jpeg" alt="" class="wp-image-582"/></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border no-margin image-zoom-hover"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery4-1024x789.jpeg" alt="" class="wp-image-582" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -4791,10 +4791,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/grid-item -->
 
 <!-- wp:olive-blocks/grid-item {"blockClientId":"97c9d861-9a67-4b3c-b638-c1eb584360ba"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":583,"sizeSlug":"large","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"image-zoom-hover no-margin"} -->
-<figure class="wp-block-image aligncenter size-large image-zoom-hover no-margin" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery2-1024x789.jpeg" alt="" class="wp-image-583"/></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border image-zoom-hover no-margin"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery2-1024x789.jpeg" alt="" class="wp-image-583" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -4817,10 +4817,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/grid-item -->
 
 <!-- wp:olive-blocks/grid-item {"blockClientId":"741711ae-6111-40c1-bd23-f7dd64e4b180"} -->
-<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true}} -->
+<div class="wp-block-olive-blocks-grid-item olive-blocks-grid-item-version-2"><!-- wp:group {"align":"wide","style":{"border":{"radius":"0px"},"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"background-secondary","className":"on-hover-has-shadow-dark  animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide on-hover-has-shadow-dark animated animated-fadeInUp has-background-secondary-background-color has-background" style="border-radius:0px;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:image {"align":"center","id":584,"sizeSlug":"large","linkDestination":"custom","style":{"border":{"radius":"0px"}},"className":"no-margin image-zoom-hover"} -->
-<figure class="wp-block-image aligncenter size-large no-margin image-zoom-hover" style="border-radius:0px"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery8-1024x789.jpeg" alt="" class="wp-image-584"/></figure>
+<figure class="wp-block-image aligncenter size-large has-custom-border no-margin image-zoom-hover"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/gallery8-1024x789.jpeg" alt="" class="wp-image-584" style="border-radius:0px"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -4845,10 +4845,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true}} -->
-<div class="wp-block-group alignwide has-background-secondary-background-color has-background" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-background-secondary-background-color has-background" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -4879,7 +4879,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"9b9ca4a1-3b8b-4eb3-87c4-18e9cef644d9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-9b9ca4a1-3b8b-4eb3-87c4-18e9cef644d9 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-min.jpeg","id":509,"dimRatio":90,"focalPoint":{"x":"0.31","y":"0.50"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(34,31,60) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-509" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-min.jpeg" style="object-position:31% 50%" data-object-fit="cover" data-object-position="31% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0) 40%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-509" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-min.jpeg" style="object-position:31% 50%" data-object-fit="cover" data-object-position="31% 50%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
@@ -4905,7 +4905,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"54d82c09-a432-47a8-b00b-1130aa43e157"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-54d82c09-a432-47a8-b00b-1130aa43e157 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/02-min.jpeg","id":510,"dimRatio":90,"focalPoint":{"x":"0.67","y":"0.60"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(34,31,60) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-510" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/02-min.jpeg" style="object-position:67% 60%" data-object-fit="cover" data-object-position="67% 60%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.19) 66%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-510" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/02-min.jpeg" style="object-position:67% 60%" data-object-fit="cover" data-object-position="67% 60%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"primary","className":"is-style-wide"} -->
@@ -4931,7 +4931,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"54d82c09-a432-47a8-b00b-1130aa43e157"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-54d82c09-a432-47a8-b00b-1130aa43e157 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/03-min.jpeg","id":511,"dimRatio":90,"focalPoint":{"x":"0.61","y":"0.58"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(34,31,60) 78%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(34,31,60) 78%)"></span><img class="wp-block-cover__image-background wp-image-511" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/03-min.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 59%,rgb(34,31,60) 78%)"></span><img class="wp-block-cover__image-background wp-image-511" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/03-min.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -4957,7 +4957,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"54d82c09-a432-47a8-b00b-1130aa43e157"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-54d82c09-a432-47a8-b00b-1130aa43e157 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/04-min.jpeg","id":512,"dimRatio":90,"focalPoint":{"x":"1.00","y":"0.53"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(34,31,60) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-512" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/04-min.jpeg" style="object-position:100% 53%" data-object-fit="cover" data-object-position="100% 53%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 64%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-512" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/04-min.jpeg" style="object-position:100% 53%" data-object-fit="cover" data-object-position="100% 53%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -4983,7 +4983,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"54d82c09-a432-47a8-b00b-1130aa43e157"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-54d82c09-a432-47a8-b00b-1130aa43e157 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/05-min.jpeg","id":513,"dimRatio":90,"focalPoint":{"x":"0.83","y":"0.55"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(34,31,60) 87%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-513" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/05-min.jpeg" style="object-position:83% 55%" data-object-fit="cover" data-object-position="83% 55%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.18) 37%,rgb(34,31,60) 87%)"></span><img class="wp-block-cover__image-background wp-image-513" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/05-min.jpeg" style="object-position:83% 55%" data-object-fit="cover" data-object-position="83% 55%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -5009,7 +5009,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"54d82c09-a432-47a8-b00b-1130aa43e157"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-54d82c09-a432-47a8-b00b-1130aa43e157 olive-blocks-advance-slide-item-version-2"><!-- wp:group -->
 <div class="wp-block-group"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/06-min.jpeg","id":514,"dimRatio":90,"focalPoint":{"x":"0.61","y":"0.58"},"minHeightUnit":"px","customGradient":"linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(34,31,60) 84%)","contentPosition":"bottom left","className":"image-zoom-hover","style":{"spacing":{"padding":{"left":"40px","top":"40px","right":"40px","bottom":"40px"}}}} -->
-<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(34,31,60) 84%)"></span><img class="wp-block-cover__image-background wp-image-514" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/06-min.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-cover has-custom-content-position is-position-bottom-left image-zoom-hover" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(180deg,rgba(0,0,0,0.15) 37%,rgb(34,31,60) 84%)"></span><img class="wp-block-cover__image-background wp-image-514" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/06-min.jpeg" style="object-position:61% 58%" data-object-fit="cover" data-object-position="61% 58%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"blockGap":"15px"}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:column {"verticalAlignment":"center","width":"30px"} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30px"><!-- wp:separator {"backgroundColor":"white","className":"is-style-wide"} -->
@@ -5038,7 +5038,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:group {"align":"full","layout":{"inherit":false}} -->
 <div class="wp-block-group alignfull"><!-- wp:media-text {"mediaId":624,"mediaLink":"https://demo.olivethemes.com/exo-dark-pro/home/content-image1/","mediaType":"image","verticalAlignment":"center","backgroundColor":"secondary"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center has-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/content-image1-1024x683.jpeg" alt="" class="wp-image-624 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"40px","right":"40px","bottom":"40px","left":"40px"}}}} -->
-<div class="wp-block-group" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"style":{"spacing":{}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"style":{"spacing":{}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -5063,13 +5063,33 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:list {"className":"list-style-two  animated animated-fadeInUp"} -->
-<ul class="list-style-two animated animated-fadeInUp"><li>Gathering Information</li><li>Our Mission </li><li>Our Vision</li></ul>
+<ul class="list-style-two animated animated-fadeInUp"><!-- wp:list-item -->
+<li>Gathering Information</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Our Mission </li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Our Vision</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:list {"className":"list-style-two  animated animated-fadeInUp"} -->
-<ul class="list-style-two animated animated-fadeInUp"><li>GET HELP FROM EXPERTS</li><li>Entertainment</li><li>Technology</li></ul>
+<ul class="list-style-two animated animated-fadeInUp"><!-- wp:list-item -->
+<li>GET HELP FROM EXPERTS</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Entertainment</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Technology</li>
+<!-- /wp:list-item --></ul>
 <!-- /wp:list --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -5083,10 +5103,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:media-text --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
-<div class="wp-block-group" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -5096,7 +5116,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-primary-color has-text-color">Recent Works</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -5109,7 +5129,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px"}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"className":"animated animated-fadeInUp","layout":{"contentSize":"600px","type":"constrained"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:paragraph {"align":"center"} -->
 <p class="has-text-align-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
 <!-- /wp:paragraph -->
@@ -5167,14 +5187,14 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:olive-blocks/buttons --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"color":{"gradient":"linear-gradient(90deg,rgb(0,0,0) 33%,rgb(34,34,34) 33%)"}},"className":" animated animated-fadeInUp","layout":{"inherit":true}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"100px","bottom":"100px","right":"30px","left":"30px"}},"color":{"gradient":"linear-gradient(90deg,rgb(0,0,0) 33%,rgb(34,34,34) 33%)"}},"className":" animated animated-fadeInUp","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide animated animated-fadeInUp has-background" style="background:linear-gradient(90deg,rgb(0,0,0) 33%,rgb(34,34,34) 33%);padding-top:100px;padding-right:30px;padding-bottom:100px;padding-left:30px"><!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/advance-slider {"blockClientId":"5a3cc527-641f-42da-a98b-733cb8587e52","blockAdvanceOptions":{"hasPagination":true,"hasNavigation":true,"columns":1,"spaceBetween":0,"arrows":{"type":"style-1","normalColor":"#ff6202","hoverBackgroundColor":"#ff6202","hoverColor":"#fff"},"paginations":{"width":"20px","height":"20px","borderWidth":1,"borderRadius":"50px","backgroundColor":"#ff6202","borderColor":"#fff"},"layout":"layout-5"},"oliveblocksStyles":".olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-next  { color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-prev  { color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-pagination .swiper-pagination-bullet  { background-color: #ff6202;border-color: #fff;border-radius: 50px;border-width: 1;border-style: solid;height: 20px;width: 20px; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-next  { color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-prev  { color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-next:hover  { color: #fff;background-color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-button-prev:hover  { color: #fff;background-color: #ff6202; }.olive-blocks-section-5a3cc527-641f-42da-a98b-733cb8587e52 .swiper-pagination .swiper-pagination-bullet  { background-color: #ff6202;border-color: #fff;border-radius: 50px;border-width: 1px;border-style: solid;height: 20px;width: 20px; }"} -->
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":490,"mediaLink":"https://demo.olivethemes.com/exo-dark-pro/home/business-man-large-2/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"background-secondary"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-background-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/business-man-large-2.jpeg" alt="" class="wp-image-490 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-ef9a24bf-fc9a-4bf6-ad9d-faa161f58e0a olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"1c6ffb73-b4d3-4505-9e59-cd15814021dc","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-1c6ffb73-b4d3-4505-9e59-cd15814021dc .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-1c6ffb73-b4d3-4505-9e59-cd15814021dc .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-1c6ffb73-b4d3-4505-9e59-cd15814021dc .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-1c6ffb73-b4d3-4505-9e59-cd15814021dc .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-1c6ffb73-b4d3-4505-9e59-cd15814021dc olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"foreground","fontSize":"medium"} -->
@@ -5197,8 +5217,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- wp:olive-blocks/advance-slide-item {"blockClientId":"ebe3dcdc-e70b-4420-9fd8-5150a8234bd9"} -->
 <div class="wp-block-olive-blocks-advance-slide-item olive-blocks-block-slide-item-wrapper swiper-slide olive-blocks-section-ebe3dcdc-e70b-4420-9fd8-5150a8234bd9 olive-blocks-advance-slide-item-version-2"><!-- wp:media-text {"mediaId":482,"mediaLink":"https://demo.olivethemes.com/exo-dark-pro/home/business-man-large-5/","mediaType":"image","mediaSizeSlug":"full","imageFill":false,"backgroundColor":"background-secondary"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile has-background-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/business-man-large-5.jpeg" alt="" class="wp-image-482 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0px","bottom":"40px"},"blockGap":"20px"}}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"b6b8aa53-522f-447c-82ad-a2860638dcd4","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-b6b8aa53-522f-447c-82ad-a2860638dcd4 .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-b6b8aa53-522f-447c-82ad-a2860638dcd4 .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-b6b8aa53-522f-447c-82ad-a2860638dcd4 .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-b6b8aa53-522f-447c-82ad-a2860638dcd4 .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
-<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-b6b8aa53-522f-447c-82ad-a2860638dcd4 olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
+<div class="wp-block-group" style="padding-top:0px;padding-bottom:40px"><!-- wp:olive-blocks/icon {"blockClientId":"d7097c82-166e-4eac-89ef-54d766fd635f","blockAdvanceOptions":{"textColor":"#ff6202"},"contentJustification":"left","iconName":"las la-quote-left","oliveblocksStyles":".olive-blocks-section-d7097c82-166e-4eac-89ef-54d766fd635f .olive-blocks-icon-wrapper { color: #ff6202; }.olive-blocks-section-d7097c82-166e-4eac-89ef-54d766fd635f .olive-blocks-icon-wrapper i {\n\t\t\tfont-size: 40px;\n\t\t}.olive-blocks-section-d7097c82-166e-4eac-89ef-54d766fd635f .olive-blocks-icon-wrapper img {\n\t\t\twidth: 40px;\n\t\t\tmax-width: 40px;\n\t\t}.olive-blocks-section-d7097c82-166e-4eac-89ef-54d766fd635f .olive-blocks-icon-wrapper .olive-blocks-image-icon-content img {\n\t\tborder-radius: undefinedpx;\n\t}"} -->
+<div class="wp-block-olive-blocks-icon flex-col-item is-content-justification-left olive-blocks-section-d7097c82-166e-4eac-89ef-54d766fd635f olive-blocks-icon-version-2"><a class="olive-blocks-icon-wrapper"><i class="las la-quote-left"></i></a></div>
 <!-- /wp:olive-blocks/icon -->
 
 <!-- wp:paragraph {"textColor":"foreground","fontSize":"medium"} -->
@@ -5221,10 +5241,10 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -5252,8 +5272,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:group {"align":"wide","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide"><!-- wp:olive-blocks/team {"blockClientId":"894af108-ea17-4caa-9175-6542d4ac5472","blockAdvanceOptions":{"padding":{"desktop":{"top":"20px","bottom":"20px","left":"0px","right":"0px"}}},"columnSize":4,"oliveblocksStyles":".olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 { padding-top: 20px;padding-right: 0px;padding-bottom: 20px;padding-left: 0px; }"} -->
-<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"7b95f583-934c-4477-9608-aaa3f900a249","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-7b95f583-934c-4477-9608-aaa3f900a249 { background: #111111; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-7b95f583-934c-4477-9608-aaa3f900a249 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":736,"sizeSlug":"full","linkDestination":"none"} -->
+<div class="olive-blocks-team-block-wrapper olive-blocks-team-layout-1 olive-blocks-team-col-4 olive-blocks-section-894af108-ea17-4caa-9175-6542d4ac5472 olive-blocks-team-version-2"><div class="olive-blocks-team-section"><!-- wp:olive-blocks/team-member {"blockClientId":"1d76df8c-bb28-4c40-bc4d-f9bc104e58b3","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-1d76df8c-bb28-4c40-bc4d-f9bc104e58b3 { background: #111111; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-1d76df8c-bb28-4c40-bc4d-f9bc104e58b3 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":736,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/team-sq-1.jpeg" alt="" class="wp-image-736"/></figure>
 <!-- /wp:image -->
 
@@ -5269,7 +5289,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -5280,8 +5300,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"d043f0fc-a306-462a-9397-a8e0a07be81f","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-d043f0fc-a306-462a-9397-a8e0a07be81f { background: #111111; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-d043f0fc-a306-462a-9397-a8e0a07be81f olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":737,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"1b4eeb11-f11a-4b33-ad71-0d2a56be9f5d","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-1b4eeb11-f11a-4b33-ad71-0d2a56be9f5d { background: #111111; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-1b4eeb11-f11a-4b33-ad71-0d2a56be9f5d olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":737,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/team-sq-2.jpeg" alt="" class="wp-image-737"/></figure>
 <!-- /wp:image -->
 
@@ -5297,7 +5317,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -5308,8 +5328,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"0e989d2d-3c04-4810-981c-9ed7a15f4259","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-0e989d2d-3c04-4810-981c-9ed7a15f4259 { background: #111111; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-0e989d2d-3c04-4810-981c-9ed7a15f4259 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":739,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"c6f8abcf-ea86-486f-b0fc-a7a186e43dea","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-c6f8abcf-ea86-486f-b0fc-a7a186e43dea { background: #111111; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-c6f8abcf-ea86-486f-b0fc-a7a186e43dea olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":739,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/team-sq-3.jpeg" alt="" class="wp-image-739"/></figure>
 <!-- /wp:image -->
 
@@ -5325,7 +5345,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -5336,8 +5356,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:social-links --></div></div>
 <!-- /wp:olive-blocks/team-member -->
 
-<!-- wp:olive-blocks/team-member {"blockClientId":"df7fd5d9-d7ce-4052-a944-6ffaba236c15","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-df7fd5d9-d7ce-4052-a944-6ffaba236c15 { background: #111111; }"} -->
-<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-df7fd5d9-d7ce-4052-a944-6ffaba236c15 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":738,"sizeSlug":"full","linkDestination":"none"} -->
+<!-- wp:olive-blocks/team-member {"blockClientId":"c8125a75-9fd7-4e44-b6ad-4eed25b62b31","blockAdvanceOptions":{"backgroundColor":"#111111"},"className":"has-shadow-dark animated animated-fadeInUp","oliveblocksStyles":".olive-blocks-section-c8125a75-9fd7-4e44-b6ad-4eed25b62b31 { background: #111111; }"} -->
+<div class="wp-block-olive-blocks-team-member olive-blocks-team-item olive-blocks-section-c8125a75-9fd7-4e44-b6ad-4eed25b62b31 olive-blocks-team-member-layout-1 olive-blocks-team-member-version-2 has-shadow-dark animated animated-fadeInUp"><div class="olive-blocks-team-member-section"><!-- wp:image {"align":"center","id":738,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image aligncenter size-full"><img src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/team-sq-4.jpeg" alt="" class="wp-image-738"/></figure>
 <!-- /wp:image -->
 
@@ -5353,7 +5373,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-text-align-center olive-blocks-team-member-block-bio"></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"},"style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}}} -->
+<!-- wp:social-links {"iconColor":"primary","iconColorValue":"#ff6202","size":"has-small-icon-size","align":"center","style":{"spacing":{"blockGap":{"top":"15px","left":"15px"}}},"className":"is-style-logos-only","layout":{"type":"flex","justifyContent":"center"}} -->
 <ul class="wp-block-social-links aligncenter has-small-icon-size has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"facebook"} /-->
 
 <!-- wp:social-link {"url":"#","service":"twitter"} /-->
@@ -5367,11 +5387,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"100px","right":"20px","bottom":"100px","left":"20px"},"blockGap":"0px"}},"backgroundColor":"background-secondary","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-background-secondary-background-color has-background" style="padding-top:100px;padding-right:20px;padding-bottom:100px;padding-left:20px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":false}} -->
-<div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true}} -->
+<div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"10px","padding":{"bottom":"30px"}}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:30px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"className":" animated animated-fadeInUp","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<div class="wp-block-group animated animated-fadeInUp"><!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -5381,7 +5401,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <p class="has-primary-color has-text-color">Our Success Stories</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px"}} -->
+<!-- wp:group {"layout":{"inherit":false,"contentSize":"30px","type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:separator {"align":"wide","backgroundColor":"primary"} -->
 <hr class="wp-block-separator alignwide has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background"/>
 <!-- /wp:separator --></div>
@@ -5405,9 +5425,9 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"foreground","layout":{"inherit":true}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"0px","padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}},"backgroundColor":"foreground","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group has-foreground-background-color has-background" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:cover {"url":"https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-1.jpeg","id":519,"dimRatio":90,"focalPoint":{"x":"0.54","y":"0.17"},"customGradient":"linear-gradient(90deg,rgb(13,13,13) 64%,rgba(0,0,0,0.05) 100%)","contentPosition":"center center","align":"full"} -->
-<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(13,13,13) 64%,rgba(0,0,0,0.05) 100%)"></span><img class="wp-block-cover__image-background wp-image-519" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-1.jpeg" style="object-position:54% 17%" data-object-fit="cover" data-object-position="54% 17%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim wp-block-cover__gradient-background has-background-gradient" style="background:linear-gradient(90deg,rgb(13,13,13) 64%,rgba(0,0,0,0.05) 100%)"></span><img class="wp-block-cover__image-background wp-image-519" alt="" src="https://demo.olivethemes.com/exo-dark-pro/wp-content/uploads/sites/6/2022/08/01-1.jpeg" style="object-position:54% 17%" data-object-fit="cover" data-object-position="54% 17%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"150px","bottom":"150px"},"blockGap":"10px"}},"textColor":"background","layout":{"inherit":false}} -->
 <div class="wp-block-group alignwide has-background-color has-text-color" style="padding-top:150px;padding-bottom:150px"><!-- wp:paragraph {"align":"left","textColor":"primary","className":" animated animated-fadeInUp","fontSize":"content-heading"} -->
 <p class="has-text-align-left animated animated-fadeInUp has-primary-color has-text-color has-content-heading-font-size">We Are Creative</p>
@@ -5442,7 +5462,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"100px"}}}} -->
-<div class="wp-block-group" style="padding-top:100px"><!-- wp:group {"align":"wide","layout":{"inherit":true}} -->
+<div class="wp-block-group" style="padding-top:100px"><!-- wp:group {"align":"wide","layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":844,"sizeSlug":"full","linkDestination":"none"} -->
@@ -5452,7 +5472,7 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"50px","right":"50px","bottom":"50px","left":"50px"}}},"backgroundColor":"background-secondary","className":"has-no-hover-shadow-dark"} -->
-<div class="wp-block-group has-no-hover-shadow-dark has-background-secondary-background-color has-background" style="padding-top:50px;padding-right:50px;padding-bottom:50px;padding-left:50px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true}} -->
+<div class="wp-block-group has-no-hover-shadow-dark has-background-secondary-background-color has-background" style="padding-top:50px;padding-right:50px;padding-bottom:50px;padding-left:50px"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"inherit":true,"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"10px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <div class="wp-block-group"><!-- wp:group {"layout":{"wideSize":"34px"}} -->
 <div class="wp-block-group"><!-- wp:separator {"backgroundColor":"primary"} -->
@@ -5483,8 +5503,8 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:post_id>416</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-24 04:42:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-24 04:42:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-07 04:31:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-07 04:31:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-11 14:06:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-11 14:06:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -11409,39 +11429,39 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"custom","url":"https://demo.olivethemes.com/exo-dark-pro/","kind":"custom","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":19,"url":"https://demo.olivethemes.com/exo-dark-pro/about-us/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":19,"url":"/about-us/","kind":"post-type","isTopLevelLink":true} /-->
 
 <!-- wp:navigation-submenu {"label":"Pages","type":"custom","url":"#","kind":"custom","isTopLevelItem":true} -->
-<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":597,"url":"https://demo.olivethemes.com/exo-dark-pro/portfolio/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Portfolio","type":"page","id":597,"url":"/portfolio/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"FAQ","type":"page","id":590,"url":"https://demo.olivethemes.com/exo-dark-pro/faq/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"FAQ","type":"page","id":590,"url":"/faq/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Testimonials","type":"page","id":592,"url":"https://demo.olivethemes.com/exo-dark-pro/testimonials/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Testimonials","type":"page","id":592,"url":"/testimonials/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Gallery","type":"page","id":589,"url":"https://demo.olivethemes.com/exo-dark-pro/gallery/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Gallery","type":"page","id":589,"url":"/gallery/","kind":"post-type","isTopLevelLink":false} /-->
 
 <!-- wp:navigation-link {"label":"Team Member","type":"page","id":591,"url":"https://demo.olivethemes.com/exo-dark-pro/team-member/","kind":"post-type","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
 
 <!-- wp:navigation-submenu {"label":"Header Parts","type":"custom","url":"#","kind":"custom","isTopLevelItem":true} -->
-<!-- wp:navigation-link {"label":"Header Two","type":"page","id":767,"url":"https://demo.olivethemes.com/exo-dark-pro/header-two/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Header Two","type":"page","id":767,"url":"/header-two/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Header Three","type":"page","id":768,"url":"https://demo.olivethemes.com/exo-dark-pro/header-three/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Header Three","type":"page","id":768,"url":"/header-three/","kind":"post-type","isTopLevelLink":false} /-->
 
-<!-- wp:navigation-link {"label":"Header Four","type":"page","id":769,"url":"https://demo.olivethemes.com/exo-dark-pro/header-four/","kind":"post-type","isTopLevelLink":false} /-->
+<!-- wp:navigation-link {"label":"Header Four","type":"page","id":769,"url":"/header-four/","kind":"post-type","isTopLevelLink":false} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-link {"label":"Services","type":"page","id":22,"url":"https://demo.olivethemes.com/exo-dark-pro/services/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"Services","type":"page","id":22,"url":"/services/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"News","type":"page","id":21,"url":"https://demo.olivethemes.com/exo-dark-pro/news/","kind":"post-type","isTopLevelLink":true} /-->
+<!-- wp:navigation-link {"label":"News","type":"page","id":21,"url":"/news/","kind":"post-type","isTopLevelLink":true} /-->
 
-<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":20,"url":"https://demo.olivethemes.com/exo-dark-pro/contact-us/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Contact Us","type":"page","id":20,"url":"/contact-us/","kind":"post-type","isTopLevelLink":true} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>780</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-26 10:45:47]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-26 10:45:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-26 10:49:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-26 10:49:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-11-11 14:06:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-11 14:06:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[primary-menu-6]]></wp:post_name>
